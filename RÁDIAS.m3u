@@ -1,136 +1,53 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/radio-6378858-5284292.png?f=webp" tvg-name=""radio=true,Rádio Kids
-http://192.99.150.31:9431/;
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/radio-6378858-5284292.png?f=webp" tvg-name=""radio=true,Rádio Kids
-https://s28.maxcast.com.br:8868/live
+#EXTINF:-1 tvg-logo="https://a-static.mlcdn.com.br/470x352/bola-de-vinil-lisa-vermelha-14-polegadas-1-unidade-extra-festas/extrafestas/17437p/9031beadf6ec15a01b381bfe0a500f36.jpeg" group-title="RÁDIAS", Rádio Verdes Mares 92.5 FM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/g3r93T/LHMTv_globorj.png" group-title="Canais Abertos",Globo RJ
-https://s28.maxcast.com.br:8868/live
-
-
-
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="NOME",
-https://s28.maxcast.com.br:8868/live
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", CBN Manaus FM
-http://stream.cbnamazonia.com/cbn-mao
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Rio Mar AM 1290 Manaus
-http://stream.radioriomarfm.com.br:8000/stream-high
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Folha FM 96.7 Recife
-http://sh.upx.com.br:8150/;
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Arari FM 90.3 Araripina
-http://03.stmip.net:7984/stream/1/
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Cultura FM 95.1
-http://srv04.brasilstream.com.br:8040/mp3
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Itatiaia FM 105.3 Juiz de Fora
-http://67.23.242.250:9874/;
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", BH FM 102
-http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Mix FM 91,7 BH
-http://tuneinmix.crossradio.com.br:8008/stream/1/
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Positiva FM 98.9 Goiânia
-http://streaming.mobradio.com.br:8006/web.aac
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Jovempan FM 106.7 Goiânia
-http://sh2.upx.com.br:8052/stream/1/
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", 98 FM Campina Grande
-http://ice11.crossradio.com.br:8026/stream/1/
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Mix FM 93.7 João Pessoa
-http://158.69.117.161:8016/ao vivo
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Interativa FM 101.7 Avaré
-http://streaming.a6.com.br:5043/stream
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-https://server02.ouvir.radio.br:8050/stream
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=radioscombr
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-http://8903.brasilstream.com.br:8903/stream
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
+#EXTINF:-1 tvg-logo="https://a-static.mlcdn.com.br/470x352/bola-de-vinil-lisa-vermelha-14-polegadas-1-unidade-extra-festas/extrafestas/17437p/9031beadf6ec15a01b381bfe0a500f36.jpeg" group-title="RÁDIAS", NOME⚫
 LINK⚫
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://static.wixstatic.com/media/8acb00_5b9567ccb2c044cd8b21e6cd1af95afd.jpg/v1/fit/w_500,h_500,q_90/file.jpg" tvg-name=""radio=true,Rádio Verdes Mares 92.5 FM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://static.wixstatic.com/media/8acb00_5b9567ccb2c044cd8b21e6cd1af95afd.jpg/v1/fit/w_500,h_500,q_90/file.jpg" tvg-name=""radio=true, NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
+#EXTINF:-1 group-title="CATEGORIA⚫" tvg-logo="IMAGEM⚫" tvg-name=""radio=true, NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫
-
-#EXTINF:-1 tvg-id="" tvg-logo="IMAGEM" group-title="RÁDIAS", NOME⚫ 
-LINK⚫

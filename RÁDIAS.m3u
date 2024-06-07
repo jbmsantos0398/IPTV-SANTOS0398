@@ -69,5 +69,295 @@ LINK⚫
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fshz3T/LHMTv_band.png" group-title="Canais Abertos",BAND
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/4.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fshz3T/LHMTv_band.png" group-title="Canais Abertos",BAND RJ
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/23.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/g3r93T/LHMTv_globorj.png" group-title="Canais Abertos",Globo RJ
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/1.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/isewiT/LHMTv_globosp.png" group-title="Canais Abertos",Globo SP
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/17.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/isewiT/LHMTv_globomg.png" group-title="Canais Abertos",Globo MG
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/18.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iyRgHo/LHMTv_record.png" group-title="Canais Abertos",Record
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/3.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iyRgHo/LHMTv_record.png" group-title="Canais Abertos",Record RJ
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/21.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gjtaA8/LHMTv_redetv.png" group-title="Canais Abertos",Rede TV HD
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/5.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iyeOV8/LHMTv_sbt.png" group-title="Canais Abertos",SBT
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/2.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iyeOV8/LHMTv_sbt.png" group-title="Canais Abertos",SBT RJ
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/19.m3u8?LHMTv
 
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eQpbHo/LHMTv_boomerang.png" group-title="INFANTIL",Boomerang
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/127.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dPrCq8/LHMTv_cartoonnet.png" group-title="INFANTIL",Cartoon Network
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/127.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ep7P3T/LHMTv_discoverykids.png" group-title="INFANTIL",Discovery Kids
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/111.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kOURHo/LHMTv_disney.png" group-title="INFANTIL",Disney
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/118.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c4Gj3T/LHMTv_gloob.png" group-title="INFANTIL",Gloob
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/121.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gPisq8/LHMTv_nickelodeon.png" group-title="INFANTIL",Nickelodeon
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/123.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hqXfco/LHMTv_natgeokids.png" group-title="INFANTIL",NatGeo Kids
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/114.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cezXq8/LHMTv_nickjr.png" group-title="INFANTIL",Nick Jr.
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/122.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hfVoV8/LHMTv_tooncast.png" group-title="INFANTIL",Tooncast
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/124.m3u8?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dF8giT/LHMTv_bandnews.png" group-title="NOTÍCIAS",BAND NEWS
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/98.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hsxwHo/LHMTv_globonews.png" group-title="NOTÍCIAS",Globo News
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/97.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mVVu3T/LHMTv_recordnews.png" group-title="NOTÍCIAS",Record News
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/100.m3u8?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jQYaA8/LHMTv_bandsports.png" group-title="ESPORTES",Band sports
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/34.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hs0cOT/LHMTv_combate.png" group-title="ESPORTES",Combate
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/77.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dPrqco/LHMTV_espn.png" group-title="ESPORTES",ESPN
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/30.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dsDgiT/LHMTv_espnbrasil.png" group-title="ESPORTES",ESPN Brasil
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/32.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cZHfco/LHMTv_foxsports.png" group-title="ESPORTES",Fox Sports
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/28.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bAANq8/LHMTv_foxsports2.png" group-title="ESPORTES",Fox Sports 2
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/29.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere Clubes
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/44.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 1
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/35.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 2
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/36.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 3
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/37.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 4
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/38.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 5
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/39.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 6
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/40.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 7
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/41.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 8
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/42.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/duLNq8/LHMTv_premiere.png" group-title="ESPORTES",Premiere FC 9
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/43.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c11HOT/LHMTv_sportv.png" group-title="ESPORTES",SporTV
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/25.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ewzRHo/LHMTV_sportv2.png" group-title="ESPORTES",SporTV 2
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/26.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c11HOT/LHMTv_sportv.png" group-title="ESPORTES",SporTV 3
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/27.m3u8?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mP8dxo/LHMTv_amc.png" group-title="FILMES",AMC
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/69.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cRPkco/LHYMTv_fox.png" group-title="FILMES",FOX
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/61.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bA0Qco/LHMTv_fx.png" group-title="FILMES",FX
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/47.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/db4kco/LHMTv_hbo.png" group-title="FILMES",HBO
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/54.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jRn5co/LHMTv_hbo2hd.png" group-title="FILMES",HBO2
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/55.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/db4kco/LHMTv_hbo.png" group-title="FILMES",Família HBO
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/57.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c8o0A8/LHMTv_megapix.png" group-title="FILMES",MegaPix
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/68.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/h6i0A8/LHMTV_paramount.png" group-title="FILMES",Paramount
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/75.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/msiBHo/LHMTv_space.png" group-title="FILMES",Espaço
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/67.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/k0pkco/LHMTv_telecinepipoca.png" group-title="FILMES",Telecine Pipoca
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/49.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7NSq8/LHMTv_telecinepremium.png" group-title="FILMES",Telecine Premium
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/48.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hO6yxo/LHMTv_telecineaction.png" group-title="FILMES",Telecine Action
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/51.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kVqfA8/LHMTv_telecinefun.png" group-title="FILMES",Telecine Fun
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/50.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksO0A8/LHMTv_tnt.png" group-title="FILMES",TNT
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/65.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hfFDV8/LHMTv_tntseries.png" group-title="FILMES",Série TNT
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/66.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dabnq8/LHMTv_universalchannel.png" group-title="FILMES",Canal Universal
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/74.m3u8?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mfrWHo/LHMTv_animalplanet.png" group-title="DOCUMENTAL",Animal Planet
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/101.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jr4kco/LHMTv_discovery.png" group-title="DOCUMENTAL",Discovery Channel
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/104.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jucfco/LHMTv_id.png" group-title="DOCUMENTAL",ID - Investigação Discovery
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/115.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gxvoV8/LHMTv_natgeo.png" group-title="DOCUMENTAL",National Geographic
+https://www.assistirtvonlinegratis.com.br:25463/live/Palmeiras1951/CampeaoMundial/112.m3u8?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Anos 80
+http://19573.live.streamtheworld.com:80/GR80SRFMAAC_SC
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Axe
+http://192.99.150.31:8305/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOUND!", Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Crianças
+http://192.99.150.31:9431/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOUND!", New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOUND!", Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOUND!", Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOUND!", Romanticas
+http://192.99.150.31:8962/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Samba de Raiz
+http://servidor33.brlogic.com:8020/live
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kBogiT/LHMTV_sound.png" group-title="SOM!", Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", FM O DIA TV
+https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8?LHMTv?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", FM O DIA
+https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8?LHMTv?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Mix FM Rio
+https://14833.live.streamtheworld.com/MIXRIOAAC_SC?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Transamerica
+http://transamerica.crossradio.com.br:9112/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", CBN Rio
+http://stream.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8?LHMTv
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Beat 98
+http://streaming13.hstbr.net:8072/live
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Tupi Rio
+http://cdn.rj.assocrj.com.br:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Metropolitana FM 98.5 SP
+http://ice.paineldj3.com.br:8004/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Dumont FM 104.3 SP
+http://174-36-1-94.webnow.net.br/dumont.aac
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", FM O Dia
+https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Mix FM SP
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Kiss
+http://cloud1.cdnseguro.com:23538/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Tribuna FM 88.5
+http://stream.hostpg.com.br:8084/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", BH FM 102
+https://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", BandFM SP
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w845145933.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1;?type=mp4
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Energia 97 FM
+https://audio1.97fm.com.br/energia
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Feliz FM BA
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Rádio Gaúcha
+https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_09320081-f8c6-4b18-9e45-6369294c111b.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Alvorada FM BH
+http://streaming.mobradio.com.br:8002/web.aac
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Clube FM Brasília
+http://5940.live.upx.net.br:9082/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Bahia 88,7 FM
+http://sh1.upx.com.br:8096/;
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Difusora Acreana
+http://midia.ac.gov.br/difusora
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Aldeia FM 96.9 Rio Branco
+http://midia.ac.gov.br/aldeiafm
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Ativa FM 93.5 RIo Branco
+http://c1.fabricahost.com.br:8053/live
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Gazeta FM 94.1 Maceió
+http://209.126.127.123:8177/ao vivo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Pajucara FM 101.9 Arapiraca
+https://slrp.sambavideos.sambatech.com/radio/pajucara5_7fbed8aac5d5d915877e6ec61e3cf0db/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Jovem Pan AM (Maceió) 1020
+http://radios.cabreuvoip.com.br:7056/;
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Boas Novas FM 104.9 Macapá
+http://37.187.90.121:3332/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Som Flashback Amazonas
+http://stm41.adcast.com.br:9254/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", CBN Manaus FM
+http://stream.cbnamazonia.com/cbn-mao
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Rio Mar AM 1290 Manaus
+http://stream.radioriomarfm.com.br:8000/stream-high
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Folha FM 96.7 Recife
+http://sh.upx.com.br:8150/;
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Arari FM 90.3 Araripina
+http://03.stmip.net:7984/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Cultura FM 95.1
+http://srv04.brasilstream.com.br:8040/mp3
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Itatiaia FM 105.3 Juiz de Fora
+http://67.23.242.250:9874/;
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", BH FM 102
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Mix FM 91,7 BH
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Positiva FM 98.9 Goiânia
+http://streaming.mobradio.com.br:8006/web.aac
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Jovempan FM 106.7 Goiânia
+http://sh2.upx.com.br:8052/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", 98 FM Campina Grande
+http://ice11.crossradio.com.br:8026/stream/1/
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Mix FM 93.7 João Pessoa
+http://158.69.117.161:8016/ao vivo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0NDxo/LHMTv_radio.png" group-title="EMISSORAS DE RÁDIO", Interativa FM 101.7 Avaré
+http://streaming.a6.com.br:5043/stream
 

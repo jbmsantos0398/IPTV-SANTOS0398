@@ -1,10 +1,36 @@
 ﻿#EXTM3U
 
-https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist_w1766039890.m3u8
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", TV
 https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1846934961.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", TV
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist_w1766039890.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", TV
 https://stmv1.video.cloudstream.com.br/tiago/tiago/chunklist_w598623700.m3u8
 
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
 
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
 
 
 

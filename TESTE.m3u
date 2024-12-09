@@ -152,87 +152,68 @@ LINK⚫
              ##########################################################################
              ##########################################################################
              ##########################################################################
-             ########################    FILMES DRIVE    ##############################
+             ########################        FILMES       #############################
              ##########################################################################
              ##########################################################################
              ##########################################################################
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_9e35a739.jpeg?region=0,0,540,810" group-title="FILMES DRIVE", Aladdin 2019
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_9e35a739.jpeg?region=0,0,540,810" group-title="FILMES", Aladdin 2019
 https://www.googleapis.com/drive/v3/files/16opm0YMGS8Ydl7pCBmcYyDeED52S12uU?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/09/20/15/51/1507365.jpg" group-title="FILMES DRIVE", Sorria 2022
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/09/20/15/51/1507365.jpg" group-title="FILMES", Sorria 2022
 https://www.googleapis.com/drive/v3/files/14seCJ61Sn_bUIXposrv033SP3McsLPjX?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/cpdRC3FvBcHH34C9A6YjBxDA8e8=/322x478/smart/filters:format(webp)/media/movies/covers/2023/09/cats_GqDVvcQ.jpg" group-title="FILMES DRIVE", A freira 2
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/cpdRC3FvBcHH34C9A6YjBxDA8e8=/322x478/smart/filters:format(webp)/media/movies/covers/2023/09/cats_GqDVvcQ.jpg" group-title="FILMES", A freira 2
 https://www.googleapis.com/drive/v3/files/1xxmk5z511w3RVhAXTWaj5Nq8oK22WgI_?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/DE9M4ihYAo_jOqceeM2R6Q7KRi0=/322x478/smart/filters:format(webp)/media/movies/covers/2019/12/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg" group-title="FILMES DRIVE", Campo do Medo. 2019
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DE9M4ihYAo_jOqceeM2R6Q7KRi0=/322x478/smart/filters:format(webp)/media/movies/covers/2019/12/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg" group-title="FILMES", Campo do Medo. 2019
 https://www.googleapis.com/drive/v3/files/1vtiR9muTqM9bjypIjinTlGnMuFgX-vTv?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="https://republicadomedo.com.br/wp-content/uploads/2024/01/F4yF7qiXwAAHGmW.jpg" group-title="FILMES", Pobres criaturas. 2023
+https://www.googleapis.com/drive/v3/files/1H_9fkI7axMRJelZywQQhesj1ihQxGWD-?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-
-
-
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES DRIVE", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
 
@@ -241,33 +222,39 @@ LINK⚫
 
 
 
-
-
-
-
-
-
-
-
-
-             ##########################################################################
-             ##########################################################################
-             ##########################################################################
-             #########################      EXEMPLO      ##############################
-             ##########################################################################
-             ##########################################################################
-             ##########################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
 LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
 
 
 
@@ -303,6 +290,25 @@ LINK⚫
 
 
 
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
 
 
 
@@ -329,6 +335,25 @@ LINK⚫
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
 LINK⚫
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
 
 
 

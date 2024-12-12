@@ -125,11 +125,11 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w1712226289.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", Web Tv Clássicos do Cinema Ao Vivo
 https://stmv1.srvif.com/movies1/movies1/chunklist_w1388785552.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", Filmes Online Ao Vivo
+https://stream.ads.ottera.tv/cl/241212ctd50ussgi6j14uitvqg/1920x1080_6046040_3_f.m3u8?i=728_6178
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", Web Tv Cine Ao Vivo
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w2030655284.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
 LINK⚫

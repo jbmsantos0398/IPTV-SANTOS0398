@@ -246,11 +246,11 @@ https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", Record News Ao Vivo
 https://stream.ads.ottera.tv/cl/241212ctd5v9t7lh9hua88kt20/1280x720_3071200_0_f.m3u8?i=728_5431
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", TVI Ficção Ao Vivo (PORTUGAL)
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=61033456
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", Super Tv Ao Vivo (ITÁLIA)
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/chunklist_w1503445408.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
 LINK⚫

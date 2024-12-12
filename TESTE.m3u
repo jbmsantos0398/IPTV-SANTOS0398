@@ -240,11 +240,11 @@ https://stream.ads.ottera.tv/cl/241212ctd5ldlitsjad6tdhkdg/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", Tv Cidade Brasil Ao Vivo
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/chunklist_w2061778291.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", TV NBT Ao Vivo
+https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", Record News Ao Vivo
+https://stream.ads.ottera.tv/cl/241212ctd5v9t7lh9hua88kt20/1280x720_3071200_0_f.m3u8?i=728_5431
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="TV", NOME⚫
 LINK⚫

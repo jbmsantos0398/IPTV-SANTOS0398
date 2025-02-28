@@ -79,34 +79,26 @@ https://stmv1.srvif.com/classique/classique/chunklist_w1673539787.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", TELEWEB TV
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w2066490430.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1969565430.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", VIVAX TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w1933937701.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", TV LITORAL RN
+https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/chunklist_w874560742.m3u8
 
-https://www.olhosnatv.com.br/search/label/Filmes?updated-max=2025-02-25T05:30:00-03:00&max-results=20&start=20&by-date=false
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", WEB CONEXÃO TV
+https://video04.logicahost.com.br/webconexao/webconexao/chunklist_w619584545.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", WEB TV PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w1267326133.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", RUNTIME AÇÃO
+https://stream.ads.ottera.tv/cl/250228cv0lqg907ar4a4l2nq1g/1280x720_3071200_0_f.m3u8?i=728_2552
 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", RUNTIME CINE ESPANTO
+https://stream.ads.ottera.tv/cl/250228cv0lsjeqeqefqqcntk1g/1280x720_3071200_0_f.m3u8?i=728_4865
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
 LINK⚫

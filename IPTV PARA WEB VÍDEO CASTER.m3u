@@ -559,7 +559,6 @@ LINK⚫
 
 
 
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
 LINK⚫
 
@@ -597,6 +596,8 @@ LINK⚫
 
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="MÚSICAS", Raul seixas
+https://archive.org/download/raul-seixas-1980-abre-te-sesamo/raul-seixas-1980-abre-te-sesamo_vbr.m3u
 
 
 

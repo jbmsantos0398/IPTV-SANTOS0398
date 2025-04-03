@@ -385,23 +385,57 @@ https://video-solutions-ag-anacarolina-1-br.tcl.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
-LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ##################################   cxtv    ####################################
+ ##################################   cxtv    ####################################
+ ##################################   cxtv    ####################################
+
+https://www.cxtv.com.br/tv/categorias/filmes
+
+ ##################################   cxtv    ####################################
+ ##################################   cxtv    ####################################
+ ##################################   cxtv    ####################################
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", Filmes Online Ao Vivo
+https://stream.ads.ottera.tv/cl/250403cvn7lv1f574anpj07j20/1920x1080_6046040_3_f.m3u8?i=728_6178
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", Web Tv Cine Ao Vivo
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1623198911.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", Multi Canais Ao Vivo
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1094588772.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", Tv Loading Ao Vivo
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1273131185.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", Web Tv Clássicos do Cinema Ao Vivo
+https://stmv1.srvif.com/movies1/movies1/chunklist_w1724336801.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", Bons Tempos Ao Vivo
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1153965846.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV", NOME⚫
 LINK⚫

@@ -674,14 +674,53 @@ LINK⚫
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", NTC PLAY 
+https://stmv2.srvsh.com.br/matheusdeoliveira7038/matheusdeoliveira7038/chunklist_w758615953.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", TV POTENGI 
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w872399324.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", RETRÔ CARTOON 2 
+https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/chunklist_w1943749480.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", TV POMPEIA 
+https://stmv1.srvif.com/ferrera/ferrera/chunklist_w1110467271.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", RETRÔ CARTOON
+https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/chunklist_w220056787.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", THE SMURFS TV 
+https://d144py1prrd7ns.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/de25ef68-2bec-4c10-a351-ae96b1d6035e/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", MR BEAN 2 
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/cb7c3e167b766f8c9398376cd5f342a2d10237895d64d13066a0539476901551d1baf0c9ea4ae66a7eff62812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa0505926359238db95458cc7d927c0618e7463c0663dded58ad7742b3d948de2976c3b2dc6539635a4d8b5a5be2a15da4f9b24043d83da3ac1d49c32f58ef8245c0c919bdd6815e9b478172f71198f09ab1f228586b72528365c0064b3e006f989a709fbb25dcb8a9484952f5b5246438d5ac86ea467ca74a464ef1fccac505b5739cce4d8511af88835db430662a128acd183f205c881b95336034a1d6526226efd6a185c40532a86af49819bc194cb4f90e714bc56c97776568d0b5fc1d8ac71a81a563ab80294c688ec11edbaabb8db9e4d60a84739e9cb48a2b181f37544cd614e2bd68d822d237fa9e42710c1c14fcda73cd94dc583f7a00d7d40e9a4369ccb1e1b4d6003fc577081ab930ab3c2b588c653c32b557bcf05b41863c0389393c8129138950f9be23ede796a53132bbdac855ec2d88910fc1fd16a67d363a53e5aa343ea52de0785dc56bf9b330c3c36da9ced54a1659107fde47/168/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", KURIAKOS KIDS 
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w2108259951_b3048000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", TOON GOGGLES BRASIL 
+https://stream.ads.ottera.tv/cl/250714d1qe8tso07nerg330ta0/1280x720_3071200_0_f.m3u8?i=475_274
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", KANUCA TV BRASIL 
+https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8?hls_ctx=5v2vb6v0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", TV POMBAL 
+https://a.cdni.live/alex6065/alex6065/chunklist_w167929704.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", MIXIFY TV 
+https://live20.bozztv.com/giatvplayout7/giatv-208696/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", MI TV 
+https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w2018665882.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", JETSONS TV 
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w986575295.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1845946836.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="DESENHOS", NOME⚫
 LINK⚫
-
-
-
-
-
-
 
 
 

@@ -589,44 +589,53 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1752511826/ei/
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", CANAL SAÚDE 
 https://media-gmcdn.eduplay.rnp.br/media/CFwapWdsWCYQ/pDz-5MEOypTJS05pqouUmQ'1/720_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/video_10801920_p_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", TV PARANÁ TURISMO 
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", UNBTV
+https://media-gmcdn.eduplay.rnp.br/media/CFwapWeR7WSI/s8zai6nPAvza3slWwsTKMQ'1/720_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", CANAL LIBRAS
+https://canallibras-stream.ebc.com.br/LIBRAS-avc1_1800000=10000.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", TV UFOP 
+https://media-gmcdn.eduplay.rnp.br/media/CFwapWdcMzXY/OLgCRZTdHDDL6bG4-g9gbA'1/720_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", TV EDUCADORA DE LIMEIRA
+https://srv2.zcast.com.br/radioestereosomdelimeiraltda3080/radioestereosomdelimeiraltda3080/playlist.m3u8?hls_ctx=0xx90153
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", FUN CANAL 
+https://video01.kshost.com.br/luiz68286/luiz68286/chunklist_w844713475.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", SESC TV 
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiIwMzdlZDcyOC02MGY3LTQ1MDYtOWQ0OS0xMGMwMmFiZDUyMWMiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MjQ5MDM2OCwiaWF0IjoxNzUyNDkwMzY4LCJleHAiOjE3NTI1NzY3NjgsImp0aSI6IjAzN2VkNzI4LTYwZjctNDUwNi05ZDQ5LTEwYzAyYWJkNTIxYyIsImlzcyI6IlNwYWxsYSJ9.UXGG2YvYB52q0hEosxE3JhStRZKpaSxNx_kNFaJtSFQ&uid=037ed728-60f7-4506-9d49-10c02abd521c
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", TV FUTURO (TV Cultura RN) 
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w1203174204.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", UNI TV (TV Cultura SC)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", TV BRASIL CENTRAL (TV Cultura GO) 
+https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", TVC HD (TV Cultura MS) 
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", TV PORTO BAHIA (TV Cultura BA) 
+https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
 LINK⚫
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
 LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="EDUCATIVOS", NOME⚫
-LINK⚫
-
-
-
 
 
 

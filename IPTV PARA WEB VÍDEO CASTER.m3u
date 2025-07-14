@@ -754,12 +754,243 @@ LINK⚫
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE TV! PARANÁ 
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1864462972.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV AMPLITUDE JUARA (Record MT) 
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", RBATV (Band PA) 
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1560532647.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", ISTV 
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1756381244.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", RECORD NEWS 
+https://stream.ads.ottera.tv/cl/250714d1qec0hrlkif53p656mg/1280x720_3071200_0_f.m3u8?i=728_5431
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", SBT
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1752513125/ei/BeZ0aLXTL4e5-LAPhqqSyQ0/ip/2804:29b8:5222:4e8:d559:733a:8d61:7192/id/ABVQXgr2LW4.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-cgpn5oxu-4vge.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AY1jyLPbmUF6jwQvIhV5hph1_khtusRkTcoimqVr24DmBCdJYBszzNV1ZgNY1IP6Xklme07YPs-cM_BO/spc/l3OVKWugvRO5OXzm1DkGxtqErNAlw1M3nb9KTWThFdJkjpeH6koGFPhvuwOWZHLLW2A/vprv/1/playlist_type/DVR/initcwndbps/2113750/met/1752491526,/mh/mT/mm/44/mn/sn-cgpn5oxu-4vge/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1752491075/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKYc1dOP0_jdJUcvxsnf-YFJmNl-3UQSEvcEPXJ5bpFFAiEAzx0Rvk8lwWq8Xg0NLfNtqy_MaQAINprhoKiP5oYr1RY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAOt9MSZ3GGb8Eyd0-uwoCLx2nHFjEFcsg3OxneNIdp4kAiEAvADzhUroBTSaE57scQE2Im_K4DXcIJnayBDYw_PFnKw%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", BAND 
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(RApz3siayu-mgavpFthoSOWP1chUhO7AE0DykoR2XWN7qjUHcf17DF89LgJ3Hh6aiKSJ9ofPDKZrmeEgxHoL_WyhV7uhaDaP6BDZH3sa1PnObhJjo_SX9xDsop8lPVBs)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcf2-eu-north-1a
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV TROPICAL (Record RN) 
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w2123384786.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV MARAJOARA (Rede Brasil PA) 
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w178581781.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE NGT 
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV ARATU (SBT BA) 
+https://copanordeste2025.brasilstream.com.br/hls/copanordeste2025/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV BRASIL OESTE (Rede Brasil MT) 
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w850649702.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV NBT (Rede NGT PA) 
+https://isaocorp.cloudecast.com/nbt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV ONE (Rede Meio PA) 
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w1487860820.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV ARAPUAN (Band PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1999421447_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV AMPLITUDE JUÍNA (Record MT)
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV SIM (Record News ES) 
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2042231909.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV PAMPA (Rede TV! RS) 
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w596414416.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV GAZETA
+https://live.eu-north-1b.cf.dmcdn.net/sec2(hYvsLIc4pU8ungWsydmiCfGn4VWanBRnLAjBFj--bg10CtoojlrInP7w1cj6EXp56lVYw4IxMCGCsilfIuVEOZUKoLkUu9C66rbClsYmxhiZCSTvVCQY59x6GmtGIXsJ)/dm/3/x8ttlxm/s/live-1080.m3u8#cell=lcf-eu-north-1b
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV MARRECAS (RBTV PR) 
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w351262009.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", RBTV
+https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w2058159263.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE TV! TOCANTINS 
+https://ikki.hubcloud.tv.br/RedeTVTO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE VIRTUAL TV (Rede Brasil PR) 
+https://video03.logicahost.com.br/redevirtualtv/redevirtualtv/chunklist_w1772732816.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", POP TV 
+https://rtisoluctions.com.br/hls/test_src.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE MEIO 
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w1429170733.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", SGC TV (Rede TV! RO) 
+https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", RIT TV 
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV BRASIL 
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV CIDADE VERDE (SBT PI) 
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w553794330.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV DIFUSORA (SBT MA) 
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE TV! MAIS (PR) 
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVG (Rede Brasil MT) 
+https://sae13.playlist.ttvnw.net/v1/playlist/CqoGvFlqvbY_8t9Ybk9ye8q_gKzTTHs-yO6X4oRiUhheDoeaV0nuZjeiMt_RU1AjhQ0LpzH1kQFrB93gQAtw2lMf3MS0Jgs6L22Eg9NZUOFyee1X_hWMXJOSmcIM5XbncA7ZuUu1_Z7mem2wyeBHUynKmqn5IL69AcDPM4qoCEeUS9-7caRO3VfD825Z1xfEzIcYEPUE1nF-rrlOKciWp5MPpJzohHV8M9lyxQRfuNi8TJaaduMnHuGuRhK6mLe7pgn635zi4NM938DsLLmkvj0d9latodUf42eG44ekV0kgNoyI8ckL3vzTEF-dJ1UVPbDa2OWcNUgjbGiXc1goKPgfBQAAOaPpUTl1b5dYp-5iSU8W4SEVfaIK5ob1LG1X8edkeK1TJv6q--gOWjsnPDUuE_hyT8wBvont-HKjWuP0X029RD5ZpV8MofchTOmWua7AzQMGDwVPbHmJI0POXFtwK7PfKSjRd9xfihfCk1zHNfncpPt3RHWOPjLdqHxnRvr1iDYlcqtkLzdMG-rPcWZ6_a19QAZYudWOP0YSRvZLnwqCkc1xcYimv2BuiITuiNEmEdLn3BlarpgSBAn3f1ZI_Wy3hwqD9-KgkQBkSDUIQBlwhkliMzZSyYESchD-_7Gi38Pzp9t8KRTr1iMnQAmOX7AsGm4fz0jPN68jEtAa8cMUVMIW5CwiqkEs3s8Pp8zqo3xSBgP2Jh5Jyl829h4HgRof-GGtzG39Xebai3tytLxWLn6ZV-w6XTq3bT1ArfH4IwmS2H04yH0pz8XplGYtW_OCyx_Y0eDIoqzvjwchyjkh_qAopP9Ll4S-GtifNYQ9LEiqrwKqcVJm7WyBDa3M7PFdLPg3dhy_dHlwrEp4lBXq2X14WP7sVPR9ARYPKZSEr8IvW6N1mGy9qZHOZRh6i_V1WzUaOb5MbrX2jta5HDUSPLafYKq4a3d9VyPNpgophSgXdulA5tUT61j5wtSLQKWJjKndwGLjObUxf9VLYU_gaFOpBmfpWdafI3nRbcER7V6tyHhbe-_6DNOWSxnLzsh_nDbcayelTTcXLzpPGaXnSInXWZjHSqOZGgztauru1qEPC8IPtjYgASoJdXMtZWFzdC0yMN4M.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE MUNDO TV (Rede Brasil PR) 
+https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w1923486423.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVC ARAÇATUBA (TV Gazeta SP) 
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1184184594.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV EVANGELIZAR 
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", ASTRAL TV 
+https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TOP TV 
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", CATVE (TV Cultura PR) 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w610918200.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE SÉCULO 21 
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE VIDA 
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV APARECIDA 
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV GUARÁ (Record News MA) 
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1367399066.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", IMPERIAL TV (Rede TV! MA)
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/chunklist_w169177533.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", BEM TV (SBT MT) 
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1046662113.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE MINAS 
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w86092985_b2771072.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV CANDIDÉS (TV Cultura MG) 
+https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b3235840.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV METRÓPOLE 
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w309531034.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV DA GENTE
+https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8?hls_ctx=r94156k4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV PAI ETERNO
+https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w499613882.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE FAMÍLIA - RFTV 
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w471381201.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", BDC TV (TV A Crítica AM) 
+https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8?hls_ctx=8421w816
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", CANAL 38 (TV Cultura PR) 
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", SANTA CECÍLIA TV 
+https://5fb29de4928ea.streamlock.net/2063/2063/chunklist_w1293807885.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV UNIÃO NATAL
+https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w370656007.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV METRÓPOLE SOBRAL 
+https://stmv4.voxtvhd.com.br/tvmetropolesobral/tvmetropolesobral/chunklist_w310373232.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", AMAZON SAT 
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV PADRE CÍCERO 
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w1977410902.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV POUSO ALEGRE
+https://sae11.playlist.ttvnw.net/v1/playlist/CqcGNjZ4JkfSoAeO9QK18Ualjj2HcCCLMOQqD6VoEG0WuL3uBDdXHXkI2BNnxUa0J_8rpa8BpznGoA9Qzo1rtHVKT0kfbMm3Ll-Qe4oAvgtDaC2_TaMzBervIq5sieyM-M5l12gTsE000XErHJO_9uTsDulfcmgUmCBjYYh3DhHCi1nYPEhcFr9cWrmFK5o1-RnW4ZSZfaQaAxv82ldKIa3FxllEsjeORF92QLQa0MhUkAKpyRrvHzMHOpwCJUn3kT0T8zYbWYmnyY4kMaXMGx-1lBSF5Az80MUnhXHikWheRE6tu4tjElLx7omdpUi5gLTAU5CdIXBXU2tK1SHZtDIkwgpxeD3zdEV7kN3mopEpo2ul6lFcfBqBAKmJGWCCHl8OHNnCdDS1RA-zOHRJga_TtXvyLZfkjYVoUfopqL-G1i-FOQgAL60R6PMnIg3_vCiha7Np7uHoLxWo8XvL_TMV1odDxwiJXzKdRXIZ8nTtYHKQBVOrGAazKMxDGScP6hs74ys0WBXi3whbs0nJVtBNOsfG8OLv1Nx5oZi3Gka7-20YdZGrt0ADEju568TzA0w7NF4qOH4AvwSJh_-nczF4AnRTpB-bF3rtlyi55b_aAYPCNQ7x8fXjeo31VOIW1i29VYR4GCY0DIDDx0ubr6P1sRHs4XKJ4oP0Ta5KxUC7L25gt_ZhVfO0WDSFPJoaAWteRmAWRFrqJdDS3dp8mfxIvJ0fpYwPd3aTrTkTcRvq12zoEvEj9QndnotoJDJOrQDZYAjNdj9ihfWtFWKL5-aRA7LEahjLuCu1OtLvy8XglMn5-udYgFjSrRrEo1RLL7aHoDFqgexX64nt3BhWFmW0H93pK1Pp-a1LOo1IxAJUEt0L7jW8XAySdbTv_3txAZVQ7tVFnbBgSo868QDKs8ZC6mCNcoDQpMf3HzRqO4tSU60busQHcPlSlHR5kMOzLOy_Rnal6JhkbBUPz4jJhnEJOk_NrzYTj26-4hMrgllFE7Wa0NjV_GLOkEsWYriLNRMUmZXdU8lJ45ThGB3TK-uIE3J5kJmhj8_PWtrc3aCVwWi6yT4QssteGgwP4IU8kP85DuJ35n4gASoJdXMtZWFzdC0yMN4M.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE BRASIL DE COMUNICAÇÃO 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1752514810/ei/mux0aLCgLc2ZobIPhIrwoQE/ip/2804:29b8:5222:4e8:d559:733a:8d61:7192/id/M6yMcv2dsIg.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vge.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLPtUUuIDztNqHZ7yE71b-8PKHOQjeAswju2UbV7YJApF-_qL6xnhwih-PNo_F07h17Kpg3PjJ8o/spc/l3OVKfcO8dqmCbLzlc-73IbQVU7ncRrs874UQyrhcqPCImXAYTpehx2ro5SPy01ntak/vprv/1/playlist_type/DVR/initcwndbps/2260000/met/1752493211,/mh/zj/mm/44/mn/sn-cgpn5oxu-4vge/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1752492758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgORWIlm7Vt-E_FTugSuMZDBbLWZGdQGSpHq8KNUvLuyICID3_AsZk5JraQB9T6cMcRPOqBpF5Sqbb69z1HkKgLKtm/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMVVoj8zz4mlHQDcfqyavG8ZGvrEPtIUvOJZ8eKGLptACIEve6qEn2gEnKObYLOE-xHFzBsB47a_BPNHgN1xpiKfc/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE GOSPEL 
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE TVS (TV Brasil SP) 
+https://video01.kshost.com.br/rede1250/rede1250/chunklist_w1298279015.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV NAZARÉ 
+https://assets.ip.tv/webchat/common/audio/session_error.mp3
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", ALTIORA TV 
+https://stmv6.voxtvhd.com.br/altioratv/altioratv/chunklist_w1286646637.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", COM BRASIL TV 
+https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1440668643.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV PARANÁ TURISMO 
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVCI 
+https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/chunklist_w479674290.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
 LINK⚫
 
 
 
 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
+LINK⚫
 
 
 

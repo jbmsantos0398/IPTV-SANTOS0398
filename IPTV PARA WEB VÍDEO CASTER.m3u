@@ -952,45 +952,132 @@ https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVCI 
 https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/chunklist_w479674290.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA",  REDE SUPER
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1328189352.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE UNIVERSO TV 
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8?hls_ctx=1308ka66
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV SERRA DO MAR 
+https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA",  TV NOVA NORDESTE
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", RBI TV 
+https://live-ak.vimeocdn.com/exp=1752569882~acl=%2F19b03e3e-28a4-4737-9e90-354c7605fb40_fmp4%2F%2A~hmac=1f3e9ac86794e9f1c1e2109a8a44b985ac496ebce868a3b8bbf3574a75d7c3ed/19b03e3e-28a4-4737-9e90-354c7605fb40_fmp4/chunklist_b6000000_cmaf_v.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA",  FONTE TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1006626506.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV POÇOS
+https://video01.logicahost.com.br/tvpocos/tvpocos/chunklist_w1083374043.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", 98 LIVE
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(pyGSr39J6kQjpgohXbtBRQRWULMgKwPVwK3axKHjoOA5zaOIxrrOtvrDspYYv95zZUfk53zM6Mh2gCsDDkqxzKzgXIyWeIx2s8_YCte1lwkjk_iZMkoHLG1ZQSTTewJv)/cloud/3/x8ilwg3/d/live-1080.m3u8#cell=lcf2-eu-north-1a
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE MUNDIAL INTERTEVE
+https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/chunklist_w1101244542_b2146304.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV CÂMARA 1 
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV MAANAIM 
+https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/chunklist_w130436690_b3000000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV CIDADE VERDE CUIABÁ
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV BRASIL CENTRAL (TV Cultura GO) 
+https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV PLAN (TV Brasil MG)
+https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w477729561.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV ALTERNATIVA (Rede Meio MA) 
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1453581098.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", REDE METRÓPOLE (Rede Meio SP) 
+https://isaocorp.cloudecast.com/metropole/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVC HD (TV Cultura MS) 
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV CRISTAL (TV A Crítica TO) 
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/chunklist_w193120038.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV PORTO BAHIA (TV Cultura BA) 
+https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV TODO DIA (TV Brasil SP) 
+https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/chunklist_w1691728550.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV SÃO LUÍS (Rede TV! MA) 
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/chunklist_w315691541.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVC PANORAMA (TV Cultura SC) 
+https://tv02.zas.media:1936/panorama/panorama/chunklist_w1208614047.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV UFG (TV Brasil GO) 
+https://59fb88a1b1108.streamlock.net/ufg/smil:tvufgweb/chunklist_w948380134_b1544100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV BRUSQUE (Rede Meio SC) 
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1018621286.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", RBA TV (TV Brasil SC) 
+https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1552288801.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV PANTANAL (RedeTV! MT) 
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w796101044.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVBE (TV Brasil SC) 
+https://stmv1.samcast.com.br/junior5083/junior5083/chunklist_w681331606.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA",  TV PREVE (TV Brasil SP)
+https://video01.kshost.com.br/paulispar7372/paulispar7372/chunklist_w310121375.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV GUAJARÁ (SBT PA) 
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1202950297.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV FUTURO (TV Cultura RN)
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w1412306090.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", UNI TV (TV Cultura SC) 
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV GRÃO PARÁ (TV Gazeta PA) 
+https://video01.kshost.com.br/moises3834/moises3834/chunklist_w429781257.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", GUIA TV (TV Brasil PB)
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w45424636.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", STZ TV (TV Brasil SP) 
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", BOAS NOVAS MANAUS 
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12960/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV FOZ SÃO MATEUS (TV Brasil ES) 
+https://5cf4a2c2512a2.streamlock.net/8236/8236/chunklist_w1514856574.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV FOZ COLATINA (TV Brasil ES) 
+https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist_w966149448.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV ONDAS PLAY (Rede Meio RJ) 
+https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/chunklist_w1973841001.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV MAIS NEWS (TV Cultura MT) 
+https://video05.logicahost.com.br/tvmais01/tvmais01/chunklist_w1572610154.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TVE UEPG (TV Brasil PR) 
+https://live01-pgz.cdn.uepg.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", TV GUARAPARI (TV Brasil ES) 
+https://ikki.hubcloud.tv.br/TVGuarapari/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV ABERTA", NOME⚫
-LINK⚫
 
 
 

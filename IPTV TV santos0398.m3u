@@ -60,11 +60,11 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1903023713.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", LUCAS TV
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8?hls_ctx=3zh46qw6
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", SWT
+https://stmv8.samcast.com.br/edgard8922/edgard8922/chunklist_w844538653.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?hls_ctx=6237s69s
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
 LINK⚫

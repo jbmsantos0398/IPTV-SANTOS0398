@@ -1,5 +1,17 @@
 ﻿#EXTM3U
 
+##########################################################
+https://programacao.tv/
+##########################################################
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", Telecine 5
+https://televisao.tv/filmes/telecine-5
+
+
+
+
+
+
 
 
 

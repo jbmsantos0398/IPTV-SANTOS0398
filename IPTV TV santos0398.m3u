@@ -1,8 +1,5 @@
 ﻿#EXTM3U
 
-##########################################################
-https://programacao.tv/
-##########################################################
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", Telecine 5
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
@@ -732,3 +729,6 @@ LINK⚫
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
 LINK⚫
 
+##########################################################
+https://programacao.tv/
+##########################################################

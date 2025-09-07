@@ -5,19 +5,25 @@
 
  ##################################   EXEMPLO    ####################################
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MeMvXTxpOxQl8uLFd0M23QHaEK?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="M3U", VÁRIOS VÍDEOS-1
-https://raw.githubusercontent.com/jbmsantos0398/IPTV-SANTOS0398/refs/heads/main/M3U.m3u
+https://raw.githubusercontent.com/jbmsantos0398/IPTV-SANTOS0398/refs/heads/main/IPTV%20PARA%20WEB%20V%C3%8DDEO%20CASTER.m3u
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MeMvXTxpOxQl8uLFd0M23QHaEK?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="M3U", VÁRIOS VÍDEOS-2
-https://raw.githubusercontent.com/jbmsantos0398/IPTV-SANTOS0398/refs/heads/main/IPTV%20TV%20santos0398.m3u
+https://raw.githubusercontent.com/jbmsantos0398/IPTV-SANTOS0398/refs/heads/main/IPTV%20M%C3%9ASICAS%20E%20R%C3%81DIAS%20santos0398.m3u
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MeMvXTxpOxQl8uLFd0M23QHaEK?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="M3U", VÁRIOS VÍDEOS-3
+https://raw.githubusercontent.com/jbmsantos0398/IPTV-SANTOS0398/refs/heads/main/IPTV%20TV%20santos0398.m3u
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MeMvXTxpOxQl8uLFd0M23QHaEK?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="M3U", VÁRIOS VÍDEOS-0
 LINK⚫
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MeMvXTxpOxQl8uLFd0M23QHaEK?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="M3U", VÁRIOS VÍDEOS-4
-LINK⚫
-
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MeMvXTxpOxQl8uLFd0M23QHaEK?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="M3U", VÁRIOS VÍDEOS-5
-LINK⚫
 
 
 

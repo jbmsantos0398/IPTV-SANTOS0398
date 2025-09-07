@@ -1,0 +1,734 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", Telecine 5
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?hls_ctx=2629c0q1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1164046163.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=3k3k6a9s
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1081848235.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w1208582207.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV WEB SÃO LUIS CANOAS RS
+https://stmv1.samcast.com.br/enei9364/enei9364/chunklist_w396967012.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", 1980 CHANNEL
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8?hls_ctx=24a110bb
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/chunklist_w1723214484.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CHANNEL NETWORK
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w747134245.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", CLOUDING TV
+https://stmv8.samcast.com.br/redeclonetv/redeclonetv/chunklist_w1445417692.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CLÁSSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CLÁSSICOS DO CINEMA 2
+https://stmv4.voxtvhd.com.br/tvbarbacenaonline/tvbarbacenaonline/playlist.m3u8?hls_ctx=40174081
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8?hls_ctx=091o0956
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV ONE (Rede Meio PA)
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w1860758055.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1218454885.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w620845732.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TOP DEMAIS TV
+https://stmv1.voxtvhd.com.br/topdemaistv/topdemaistv/playlist.m3u8?hls_ctx=665s6q2a
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RCTV BRASIL
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1903023713.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", LUCAS TV
+https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8?hls_ctx=3zh46qw6
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", SWT
+https://stmv8.samcast.com.br/edgard8922/edgard8922/chunklist_w844538653.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?hls_ctx=6237s69s
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", UNI TV
+https://video01.logicahost.com.br/unitv/unitv/chunklist_w110161752.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", ACESSO CHANNEL
+https://streaming.cloudecast.com/hls/superflix/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV NBT (Rede NGT PA)
+https://isaocorp.cloudecast.com/nbt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", PORTO ALEGRE 24 HORAS TV
+https://rtisoluctions.com.br/hls/test_src.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE UTV BRASIL
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w1762216490.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RUNTIME AÇÃO
+https://stream.ads.ottera.tv/cl/250730d24rqd222t19ck7sibf0/1280x720_3071200_0_f.m3u8?i=728_2552
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TVES
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8?hls_ctx=twwk3952
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", MULTICANAIS
+https://stmv7.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8?hls_ctx=0o4vcv76
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE TV MAIS
+https://video09.logicahost.com.br/redetvmais/redetvmais/chunklist_w204270559.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV MAIS BRASIL
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w908223560.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV IF CINE
+https://stmv1.srvsite.com/tvifcine/tvifcine/playlist.m3u8?hls_ctx=b1866018
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV 100% CAIPIRA
+https://srv2.zcast.com.br/100capira/100capira/playlist.m3u8?hls_ctx=735t0aq2
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV MON HD
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?hls_ctx=3p999195
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV SANTA
+https://video04.logicahost.com.br/tvsanta/tvsanta/chunklist_w364772847.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE NGT
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", GRJNGO
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w1134234884.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", KANADE BRASIL
+https://backend.energeek.cl/webtv/kanadebr/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV BRASIL OESTE (Rede Brasil MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w579119855.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TELEWEB TV
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w1878441174.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CARIOCA INTERNACIONAL
+https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w1664286751.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", MOVIESPHERE BRAZIL
+https://stream.ads.ottera.tv/cl/250730d24rsptha6sunl44g2d0/1920x1080_6046040_3_f.m3u8?i=728_6178
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RBTV
+https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w97722025.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RUNTIME CINE ESPANTO
+https://stream.ads.ottera.tv/cl/250730d24ru1e1a3dbckhadt30/1280x720_3071200_0_f.m3u8?i=728_4865
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CLUBE SJN
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w75173212.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE MUNDO TV (Rede Brasil PR)
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/chunklist_w250339571.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", SEVEN TV
+https://stmv1.srvif.com/seventv/seventv/playlist.m3u8?hls_ctx=866e48gn
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", CANAL BSTV
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1592703114.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV MARAJOARA (Rede Brasil PA)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w542153592.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV POMBAL
+https://a.cdni.live/alex6065/alex6065/chunklist_w2072169381.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", VIVAX TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w1162189648.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV EXPLOSÃO FM
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8?hls_ctx=o98111h1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV OSÓRIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w741815924.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RUNTIME
+https://stream.ads.ottera.tv/cl/250730d24rvri22t19ck7sjoqg/1280x720_3071200_0_f.m3u8?i=728_2153
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", UP WEBTV
+https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w1796545452.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV ECOVALE (Rede Brasil MT)
+https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/chunklist_w1564668094.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", GRJNGO 2
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV ITAPETINGA
+https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/chunklist_w1653750256.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", VIVA WEB TV
+https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/chunklist_w522218696.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV DIVERSIDADE
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE VIRTUAL TV (Rede Brasil PR)
+https://video03.logicahost.com.br/redevirtualtv/redevirtualtv/chunklist_w1299522003.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", ABC BRASIL
+https://stmv1.srvstm.com/abc7891/abc7891/chunklist_w502284549.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", SOUL CINE CLUBE
+https://video01.soultv.com.br/soulcine/soulcine/chunklist_w2071729110.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", SUMMIT TV
+https://stmv2.samcast.com.br/canalsummittv/canalsummittv/chunklist_w853547429.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV MARRECAS (RBTV PR)
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w1805733004.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", 7TVS
+https://stmv1.samcast.com.br/beatpapo/beatpapo/chunklist_w677806676.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV BRASIL HITS
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w358527191.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RUNTIME CRIME
+https://stream.ads.ottera.tv/cl/250730d24s37t004qe42hj4r70/1280x720_3071200_0_f.m3u8?i=728_4864
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV MARCHETI
+https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w444043701.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GOITACÁ
+https://video01.kshost.com.br:4443/david7639/david7639/chunklist_w451273889.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RUNTIME ROMANCE
+https://stream.ads.ottera.tv/cl/250730d24s4psv2677j3n829lg/1280x720_3071200_0_f.m3u8?i=475_4866
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", JOVEM TOTAL TV
+https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/chunklist_w400817280.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w48378815.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", ENTORNO SUL WEB TV
+https://video01.kshost.com.br/manoel2072/manoel2072/chunklist_w538289287.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", CINEMONDE
+https://video01.soultv.com.br/cinemonde/cinemonde/chunklist_w1772809136.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", LIBERDADE RÁDIO E TV
+https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/chunklist_w778510949.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TOP MIX TV FILMES
+https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/chunklist_w225548162.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GRAMADO NET
+https://isaocorp.cloudecast.com/tvgramado/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RUNTIME FAMÍLIA
+https://stream.ads.ottera.tv/cl/250730d24s6225lrs2f2a5hojg/1280x720_3071200_0_f.m3u8?i=728_5589
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", BLITS TV
+https://s1.tvr.ovh/video78574/video78574/chunklist_w149886370.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", RUNTIME COMÉDIA
+https://stream.ads.ottera.tv/cl/250730d24s61ksgi9p1933reag/1280x720_3071200_0_f.m3u8?i=728_2553
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE WEB TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE QDM
+https://s1.tvr.ovh/video93238/video93238/chunklist_w1859051777.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CIDADE BRASIL
+https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/chunklist_w2040376283.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1707574962_b30048000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV NBN
+https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TVC OURINHOS
+https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/chunklist_w224676537.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GRU WEB
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1368678395.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV WTJMINAS
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w572905664.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CIDADE NOVA
+https://stmv1.srvif.com/tvcn/tvcn/playlist.m3u8?hls_ctx=83679219
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV VARGEM
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w1777869716.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", AUGE TV
+https://video01.logicahost.com.br/canalaugetv/canalaugetv/chunklist_w552415351.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8?hls_ctx=256x3619
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV PBC
+https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w1423304838.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV METRÓPOLE NEWS
+https://video01.logicahost.com.br/redebemtv/redebemtv/chunklist_w2098429501.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w479558059.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REPUBLIC
+https://video01.soultv.com.br/republic/republic/chunklist_w17283025.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV LIBERAL
+https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8?hls_ctx=848sd966
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", LAVRAS CE TV WEB
+https://stmv1.srvif.com/lavrastv/lavrastv/playlist.m3u8?hls_ctx=u00ua024
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", VIA MORENA
+https://video01.logicahost.com.br/viamorena01/viamorena01/chunklist_w980356714.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", ORIUNDI TV
+https://stmv5.samcast.com.br/oriunditv/oriunditv/chunklist_w294060788.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GRANDE REDE
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w561967757.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", SOU TV
+https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", REDE RECON
+https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", POOPTV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CNB ORLANDO
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w2054731038.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CNB AMERICAN
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w1100847145.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV CONEXÃO GOSPEL
+https://stmv7.samcast.com.br/proclamaigospel/proclamaigospel/chunklist_w1896501309.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV SERRA FARROUPILHA
+https://stmv1.samcast.com.br/israel4434/israel4434/chunklist_w1555262514.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", PETLOVERS TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1972625220.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV DIGITAL BIRIGUI
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/chunklist_w630978717.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GOSPEL EXODUS DE SALVADOR
+https://stmv7.samcast.com.br/tvexodus/tvexodus/chunklist_w1670506368.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", MYTIME BRASIL
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GALEGA
+https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV NOVA JUAREZ
+https://stmv1.srvif.com/rodasdecapoeirapb/rodasdecapoeirapb/playlist.m3u8?hls_ctx=53372931
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", TV GUSS
+https://stmv2.samcast.com.br/daniel6726/daniel6726/chunklist_w53746402.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", A LOUCURA HD FILME DE SUSPENSE COMPLETO EM PORTUGUÊS
+https://archive.org/download/a-loucura-hd-filme-de-suspense-completo-em-portugue-s/A%20LOUCURA%20_%20HD%20_%20FILME%20DE%20SUSPENSE%20COMPLETO%20EM%20PORTUGU%C3%8AS.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", A ILHA DUBLAGEM EXCLUSIVA NOVO FILME DE TERROR HD DUBLADO EM PORTUGUÊ S
+https://archive.org/download/a-ilha-dublagem-exclusiva-novo-filme-de-terror-hd-dublado-em-portugue-s/A%20ILHA%20_%20DUBLAGEM%20EXCLUSIVA%20_%20NOVO%20FILME%20DE%20TERROR%20HD%20DUBLADO%20EM%20PORTUGU%C3%8AS.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Morte Por Encomenda ( 2010) · Dublado Português
+https://archive.org/download/morte-por-encomenda-2010-.-dublado-portugues/Morte%20por%20Encomenda%20%282010%29%20%C2%B7%20Dublado%20Portugu%C3%AAs.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Filme
+https://archive.org/download/2-filmes/Melhor%20THRILLER%20de%20HORROR%20_%20Pesadelos%20mortais_%20ningu%C3%A9m%20est%C3%A1%20seguro%20enquanto%20dorme..mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Filme
+https://archive.org/download/2-filmes/Os%20Desaparecidos%20FILME%20COMPLETO%20DUBLADO%20_%20Filmes%20de%20Fic%C3%A7%C3%A3o%20Cient%C3%ADfica%20_%20Filmes%20para%20Assistir.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Ela Retorna Ao Mundo Dos Vivos Para Terminar A Missão ⁄ Filme Completo Dublado ( 1)
+https://archive.org/download/ela-retorna-ao-mundo-dos-vivos-para-terminar-a-missao-filme-completo-dublado-1/Ela%20retorna%20ao%20mundo%20dos%20vivos%20para%20terminar%20a%20miss%C3%A3o%20%E2%81%84%20Filme%20Completo%20Dublado%20%281%29.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Uma Força Sinistra De Outro Mundo Atrai O Menino Para Uma Armadilha Filme De Terror Em Português
+https://archive.org/download/uma-forca-sinistra-de-outro-mundo-atrai-o-menino-para-uma-armadilha-filme-de-terror-em-portugues/Uma%20for%C3%A7a%20sinistra%20de%20outro%20mundo%20atrai%20o%20menino%20para%20uma%20armadilha%20_%20Filme%20de%20Terror%20em%20Portugu%C3%AAs.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", TEMPESTADE FILME
+https://archive.org/download/tempestade-filme/TEMPESTADE%20%20%20FILME.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Um Encontro Secreto Se Torna Um Jogo Mortal De Sobrevivência FILME De SUSPENSE Dublado Em Português
+https://archive.org/download/um-encontro-secreto-se-torna-um-jogo-mortal-de-sobrevivencia-filme-de-suspense-dublado-em-portugues/Um%20Encontro%20Secreto%20se%20Torna%20um%20Jogo%20Mortal%20de%20Sobreviv%C3%AAncia%20FILME%20De%20SUSPENSE%20Dublado%20em%20Portugu%C3%AAs.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Filme De Terror Fanatismo Religioso SUSPENSE Filmes Completos Dublados Em Portugues
+https://archive.org/download/filme-de-terror-fanatismo-religioso-suspense-filmes-completos-dublados-em-portugues/Filme%20de%20terror%20_%20Fanatismo%20religioso%20_%20SUSPENSE%20_%20Filmes%20completos%20dublados%20em%20portugues.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", A VERDADE OCULTA HD TERROR FILME EM PORTUGUÊ
+https://archive.org/download/a-verdade-oculta-hd-terror-filme-em-portugue-s/A%20VERDADE%20OCULTA%20_%20HD%20_%20TERROR%20_%20FILME%20EM%20PORTUGU%C3%8AS.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", A NOIVA! Filme De Terror
+https://archive.org/download/a-noiva-filme-de-terror/A%20NOIVA%21%20Filme%20de%20terror.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", O Acidente ( 2017) · Dublado Português
+https://archive.org/download/o-acidente-2017-.-dublado-portugues/O%20Acidente%20%282017%29%20%C2%B7%20Dublado%20Portugu%C3%AAs.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", O PROTETOR CAPITULO FINAL DUBLADO FILME DE AÇÃ O 2024
+https://archive.org/download/o-protetor-capitulo-final-dublado-filme-de-aca-o-2024/O%20PROTETOR%20-%20CAPITULO%20FINAL%20-%20DUBLADO%20-%20FILME%20DE%20A%C3%87%C3%83O%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", O Exorcismo Do Demônio Filme Completo Dublado Terror
+https://archive.org/download/o-exorcismo-do-demonio-filme-completo-dublado-terror-film-plus-action/O%20Exorcismo%20do%20Dem%C3%B4nio%20__%20Filme%20Completo%20Dublado%20__%20Terror%20__%20Film%20Plus%20Action.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Criaturas Misteriosas Atacam A Floresta Mistério Terror Filmes Completos D
+https://archive.org/download/criaturas-misteriosas-atacam-a-floresta-misterio-terror-filmes-completos-d/Criaturas%20misteriosas%20atacam%20a%20floresta%20_%20Mist%C3%A9rio%20_%20Terror%20_%20Filmes%20Completos%20D.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", A Maldição Do Orfanato Filme Completo Filme De Terror Booh
+https://archive.org/download/a-m-4ldicao-do-orfanato-filme-completo-filme-de-terror-booh/A%20M4ldi%C3%A7%C3%A3o%20do%20Orfanato%20-%20Filme%20Completo%20-%20Filme%20de%20Terror%20_%20Booh.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", ASSASSINO DE ALMAS LANÇ AMENTO 2024 FILME DE AÇÃ O COMPLETO DUBLADO EM PORTUGU
+https://archive.org/download/assassino-de-almas-lanc-amento-2024-filme-de-aca-o-completo-dublado-em-portugu/ASSASSINO%20DE%20ALMAS%20_%20LAN%C3%87AMENTO%202024%20_%20FILME%20DE%20A%C3%87%C3%83O%20COMPLETO%20DUBLADO%20EM%20PORTUGU.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Uma Noite Apavorante Filme Completo Dublado Filme De Suspense Alta Tensão
+https://archive.org/download/uma-noite-apavorante-filme-completo-dublado-filme-de-suspense-alta-tensao/Uma%20Noite%20Apavorante%20-%20Filme%20Completo%20Dublado%20-%20Filme%20de%20Suspense%20_%20Alta%20Tens%C3%A3o%20%281080p_24fps_H264-128kbit_AAC%29.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", O SUSSURRO DO DIABO TERROR FILME Dublado ( 1)
+https://archive.org/download/o-sussurro-do-diabo-terror-filme-dublado-1/O%20SUSSURRO%20DO%20DIABO%20_%20TERROR%20_%20FILME%20Dublado%20%281%29.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Dia Dos Mortos 2 O Contágio ( 2005)
+https://archive.org/download/dia-dos-mortos-2-o-contagio-2005/Dia%20Dos%20Mortos%202%20O%20Cont%C3%A1gio%20%28%202005%29.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Filme brasileiro de 1988
+https://archive.org/download/luzia-homem-drama-filme-brasileiro-completo/Luzia%20Homem%20_%20Drama%20_%20Filme%20Brasileiro%20Completo.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Livro De Sangue ( 2009) Filme Dublado Terror
+https://archive.org/download/livro-de-sangue-2009-filme-dublado-terror/Livro%20de%20Sangue%20%282009%29%20-%20Filme%20%20Dublado%20-%20Terror.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Kraken No Céu FILME COMPLETO DUBLADO Filmes De Monstros Gigantes
+https://archive.org/download/kraken-no-ceu-filme-completo-dublado-filmes-de-monstros-gigantes/Kraken%20no%20C%C3%A9u%20FILME%20COMPLETO%20DUBLADO%20_%20Filmes%20de%20Monstros%20Gigantes.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", 😊 Mortadelo E Salaminho Missão Inacreditável😊 Filme De Animação Dublado😊
+https://archive.org/download/mortadelo-e-salaminho-missao-inacreditavel-filme-de-animacao-dublado/%F0%9F%98%8AMortadelo%20e%20Salaminho_%20Miss%C3%A3o%20Inacredit%C3%A1vel%F0%9F%98%8AFilme%20de%20Anima%C3%A7%C3%A3o%20Dublado%F0%9F%98%8A.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", Convite Maldito 2022 
+https://www.googleapis.com/drive/v3/files/1mptKyAZV3_fFiwtFq7v24TQ_Z9sZY1g6?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", A Porta do Porao
+https://www.googleapis.com/drive/v3/files/1YjCH7FWJQVWdmyR1T8o7PXZ_MT3pP8Hr?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="FILMES", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="PORNÔ", NOME⚫
+https://c8b8f772cd.mjedge.net/223000/223183/223183_s.mp4?expires=1740727689&token=e6728233a201ff268f2fd98f6661caa0
+
+
+ ##################################   EXEMPLO    ####################################
+https://www.wankoz.com/
+EXEMPLO EPORNER M3U DE BAIXO 
+https://www.sambaporno.com/source/eporner
+
+https://www.sambaporno.com/source/porner-tv
+
+ ##################################   EXEMPLO    ####################################
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="PORNÔ", EPORNER
+https://dash-s2-c50-de-cdn.eporner.com/hls/srv3/12777974-480p.mp4/index-v1-a1.m3u8?hash=R-CzWh5APnIfOVUxPLAOuw&expires=1741438238&ip=2804:29b8:5222:d9fc:5d2c:f240:d149:5d07&id=12777974
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="PORNÔ", EPORNER
+https://dash-s1-c50-de-cdn.eporner.com/hls/srv10/12712357-1440p-av1.mp4/index-v1-a1.m3u8?hash=xXSux3E52XQRNE7HjT6KbQ&expires=1741438440&ip=2804:29b8:5222:d9fc:5d2c:f240:d149:5d07&id=12712357
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="PORNÔ", porner-tv
+https://s3.prnvdsrvr.xyz/hls/0050000/50471/hd/hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="PORNÔ", NOME⚫
+LINK⚫
+
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="PORNÔ VARIADOS", XXXXXXXXXX
+https://video.hoes.tube/porn/318000/318998/318998.mp4?ri=524288&rs=795648&expires=1747559480&token=1484a57829dc29885e136802982dd24a
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="PORNÔ VARIADOS", XXXXXXXXXX
+https://video.hoes.tube/porn/366000/366665/366665.mp4?ri=524288&rs=894976&expires=1747561125&token=9f1796ec6de3947b2d2dd41a75c0c77f
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="PORNÔ VARIADOS", XXXXXXXXXX
+https://video.hoes.tube/videos/257000/257088/257088.mp4?ri=524288&rs=962560&expires=1747561077&token=07707a5013f3b6d419b9efa76785e77a
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="PORNÔ VARIADOS", XXXXXXXXXX
+https://video.hoes.tube/videos/165000/165889/165889.mp4?ri=524288&rs=1356800&expires=1747561101&token=7fa09c07f595212ba8710cf5110b03f7
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="PORNÔ VARIADOS", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png" group-title="MÚSICAS", Raul seixas
+https://archive.org/download/raul-seixas-1980-abre-te-sesamo/raul-seixas-1980-abre-te-sesamo_vbr.m3u
+
+
+
+
+
+
+
+
+           ##################################   EXEMPLO    ####################################
+           ##################################   EXEMPLO    ####################################
+           ##################################   EXEMPLO    ####################################
+           ##################################   EXEMPLO    ####################################
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+LINK⚫
+
+##########################################################
+https://programacao.tv/
+##########################################################

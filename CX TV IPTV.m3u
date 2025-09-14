@@ -16,11 +16,11 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?hls_ctx=84u78150
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="TV FILMES", Tv Clássicos Ao Vivo
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?hls_ctx=00i17806
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="TV FILMES", Web Tv Clássicos do Cinema Ao Vivo
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="TV FILMES", Bons Tempos Ao Vivo
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?hls_ctx=l1o1p66u
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
 LINK⚫

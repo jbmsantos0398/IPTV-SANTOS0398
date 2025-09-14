@@ -7,8 +7,8 @@ https://stmv7.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8?hls_ctx=95524
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="TV FILMES", Filmes Online Ao Vivo
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="TV FILMES", Web Tv Cine Ao Vivo
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?hls_ctx=c0tb9931
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
 LINK⚫

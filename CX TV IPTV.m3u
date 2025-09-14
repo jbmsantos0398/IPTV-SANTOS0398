@@ -10,11 +10,11 @@ https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="TV FILMES", Web Tv Cine Ao Vivo
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?hls_ctx=c0tb9931
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="TV FILMES", Tv Loading Ao Vivo
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?hls_ctx=84u78150
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="TV FILMES", Tv Clássicos Ao Vivo
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?hls_ctx=00i17806
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
 LINK⚫

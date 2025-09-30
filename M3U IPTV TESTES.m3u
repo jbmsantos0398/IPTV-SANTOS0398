@@ -1,6 +1,109 @@
 ﻿#EXTM3U
 
 
+      ######################## https://televisao.tv/filmes/ #######################
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/telecine-1.jpg" group-title="TV", TELECINE 1
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+
+
+
+
+
+      ######################## https://programacao.tv/ #######################
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  ##################################   EXEMPLO    ####################################
@@ -106,20 +209,10 @@ https://archive.org/download/raul-seixas-1980-abre-te-sesamo/raul-seixas-1980-ab
 
 
 
-           ##################################   EXEMPLO    ####################################
-           ##################################   EXEMPLO    ####################################
-           ##################################   EXEMPLO    ####################################
-           ##################################   EXEMPLO    ####################################
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
-LINK⚫
-
+           #########################   EXEMPLO   ##########################
+           #########################   EXEMPLO   ##########################
+           #########################   EXEMPLO   ##########################
+           #########################   EXEMPLO   ##########################
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
 LINK⚫
 

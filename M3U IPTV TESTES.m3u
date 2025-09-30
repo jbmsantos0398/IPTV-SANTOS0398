@@ -1,28 +1,200 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizwp0Bb9WjvqCjSKKDAzFPQehtvrJ_cvXaYYgBVXdu-mfCcHvxaPVG7Cx2osPA-KFRbKULujYD7HtAeWmhu100yk6g95ME2Rc8CL9QheP3Vz-mIKx2Gol8KDY5ocifoSGhGuSNoYQTisMusjj1V27lnkr_edbhoWvN4ipaRGX8MkxjO7kiCX6nUR3JfmY/w1200-h630-p-k-no-nu/TV%20TROPICAL%20-%20RECORD%20RN.webp" group-title="TV", TV TROPICAL (Record RN) 
-https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1158315526.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ABVQXgr2LW4/hqdefault.jpg?v=5f90aff3&sqp=COTL78YG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCK_lESVJyeG71d-I0pIxX-nyUjEw" group-title="TV", SBT
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1759263559/ei/5-bbaM6oMuup9cYPuIC0iAc/ip/2804:29b8:5222:19ed:cdda:19ed:e4dd:ecb4/id/ABVQXgr2LW4.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/ATw7iSV887DXZKBHpBpBVLMRDfImSI8slitFR-mkZ7esZii2DSZL6yMClIIINvkEQmX-o0bot6ZP9wcI/spc/hcYD5QQuGGM-57ahe6_S0bDgyjYdaGilA6YXdKdQBWs_pEW6KHogRIh-8EaticrHQUQ/vprv/1/playlist_type/DVR/initcwndbps/1877500/met/1759241960,/mh/mT/mm/44/mn/sn-cgpn5oxu-4vgs/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51593650/mt/1759241584/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJTz-oFQH_ovKVWgEOxEfXrwgRW0P_oC-mh-H4E-Kkw6AiEAl6V9jmukMFAZqCuJxlW0m7W7QW_B6NcCCMLkccTIASY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAOKjotD5xZHGb32F_A3sHPKX56hvUPuDNc4gAIN4jk8VAiEA4ZX9NgJBu2OZ2UJDpwm4ahq4agQFyevZnTj4oMXkS_M%3D/playlist/index.m3u8
+https://www.soultv.com.br/channel/74
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", TEST
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1672747617.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", TEST
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w482370994.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", ISTV 
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w2140773344.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", REDE BRASIL 
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w2140738387.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", CARAVANA PLAY 
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=2ia320gr
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", CARAVANA PLAY 
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=m3tva318
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", XTREME TV 
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w1937586789.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", XTREME TV 
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w1079860263.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", REDE FÊNIX
+https://video10.logicahost.com.br/redefenix/redefenix/chunklist_w1483743840.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", REDE FÊNIX
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
 
@@ -31,35 +203,119 @@ LINK⚫
 
 
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
 LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/02/28/08/53/emoji-4886860_1280.png" group-title="TV FILMES", NOME⚫
+LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

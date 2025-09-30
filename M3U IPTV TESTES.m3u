@@ -1,54 +1,8 @@
 ﻿#EXTM3U
 
 
-      ######################## https://televisao.tv/filmes/ #######################
-#EXTINF:-1 tvg-logo="https://televisao.tv/images/telecine-1.jpg" group-title="TV", TELECINE 1
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4HMN6bFbV0h5KjP5M820lvAHF4GBwhWh2NA&s" group-title="TV", TELECINE 2
-https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1978292499_b30048000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2GY_WqOgiTEt6xCZP6pONJnWHfU0Sl6YNA&s" group-title="TV", TELECINE 3
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0009/4137/brand.gif?itok=zoAN-IFO" group-title="TV", TELECINE 4
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyk2yaQQyX3dg96Jmt76dBTfbW-n7whPDQrQ&s" group-title="TV", TELECINE 5
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TV", FUTURAMA
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb9c5351f5d000085e8d7e/3321280/playlist.m3u8?terminate=false&sid=12f4f373-9e06-11f0-9377-dacff2be3bc2&deviceDNT=0&deviceLat=-3.7200000286102295&deviceLon=-38.540000915527344&deviceModel=web&deviceVersion=143.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=d6e876d6-7422-4ee9-a74f-e1bccb580f97&appVersion=9.16.0-1c8668875bc70dd1978c9232cfb832b3eaed04c6&deviceType=web&deviceMake=firefox&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjVmODQxNDg4LWYyMDEtNGIxYS1iNjU3LTMyNzU4ZjAxYjIwZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxMmY0ZjM3My05ZTA2LTExZjAtOTM3Ny1kYWNmZjJiZTNiYzIiLCJjbGllbnRJUCI6IjI4MDQ6MjliODo1MjIyOjE5ZWQ6Y2RkYToxOWVkOmU0ZGQ6ZWNiNCIsImNpdHkiOiJGb3J0YWxlemEiLCJwb3N0YWxDb2RlIjoiNjAwMTAtMDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjo3NjEyMSwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0zLjcyMDAwMDAyODYxMDIyOTUsImRldmljZUxvbiI6LTM4LjU0MDAwMDkxNTUyNzM0NCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTQzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTYuMC0xYzg2Njg4NzViYzcwZGQxOTc4YzkyMzJjZmI4MzJiM2VhZWQwNGM2IiwiY2xpZW50SUQiOiJkNmU4NzZkNi03NDIyLTRlZTktYTc0Zi1lMWJjY2I1ODBmOTciLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Gb3J0YWxlemEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJkNmU4NzZkNi03NDIyLTRlZTktYTc0Zi1lMWJjY2I1ODBmOTciLCJmd1ZjSUQyQ29wcGEiOiJkNmU4NzZkNi03NDIyLTRlZTktYTc0Zi1lMWJjY2I1ODBmOTciLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImQ2ZTg3NmQ2LTc0MjItNGVlOS1hNzRmLWUxYmNjYjU4MGY5NyIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMTMsMTAwMTQsMTAwMTYsMTAwMjAsMTAwMjEsMTAwMjIifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpaRFpsT0RjMlpEWXROelF5TWkwMFpXVTVMV0UzTkdZdFpURmlZMk5pTlRnd1pqazMiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzU5MzI3MzM3LCJpYXQiOjE3NTkyNDA5MzcsImp0aSI6ImQ0NjJiYjVlLWI5YzMtNGQ0OS1hYTYzLTU0ZjY0YTMwZjI5MCJ9.MO1yYEQtz2Bjvneia5afg7AsGdfYV9kJoa6Mesh68Hk&paln=AQzzBGQEF8YbwZ7b-QhFfyvJ89EJJ5o8n8cDz_zXf50cLHOKVtcGEQEOedmwDMZuXRI4Xa_M029XqKW43lFe-bOytZzX-5SEZaOB7Iobh8asnvsEWOEJjuC1vFlaaIIks_b1IcH5mPbBa1XNk1Ia4U_CVjkajB51Jjk08rt7ayoWK7lKnaUW46diKeCOp6qYBnpqwosFLw6eooc7wN8zJsMKRTpzym9lg20_pOVshAtfbMQUpMk09dIrVB_x5BGRMCvxnGMJXpfi7HuzRBaeF-nw4T00MxQt3As2QQqO5yuuJMG4GsViATukb5DUGdafUvYMFioLxKIqbjTjRt43okYZ8Z0PMJI9XtGFyV576LaZ0i2sigA1g4m1Oe25CAoswkaaxT7TymYcLvdXuduy6WM6M1Om6vyfSveSG-7rHuYr2oRQ5tB-h2xaNJVTkE6g9bAVrGyj7gatQK2y60wAnNJWfmnBXUCkBRJQGG5NZkJxrwy_Bl3Y4zLV0Oz3mFVWnMZnCRXNkV-pBgB-ABw-zQ_a8gjDbrzZu-NLLP01bJiUzDsfstbVzL8LTYVvwcOkjUk5BfR7YKQhI_6qcuE5P8QLhCg6mMt817iZjgOWLLMd7USwePXEd9VBJBnVKfi5BajcZSObMWdJ55F-JIJNMcTIzKtftt8W31bho85Q_ff5fv4MXkhNvul0XDZ1_XjE_C3955NPCK2rEtiekva8yPediF2sVFa2ODoW8q6djcyES9G6z8SII3kTKCQ7rsB5sJYmLf0x1NSrBXpn5umpi-6xefzAY5zixfOBaEIcYafm-sgvtqPa5MkD2KxlJhrobTrKZo9bjWUzmxHMOUvfZlmLbDJ5oiFlzyeG8E6opUe9_uKT6VtCZ6k5BfBZOeBpBqvoJ1Xj3u0DeZfqCDC6NGb3z60fBQwfd3Wbhk0bkxvIWXyiCgXtpr12L2J-k_fMK-x1D56V0STz9zHnp8RsiB7IACr1gIB3tlq29ZM3--sB3m95yyNs4a2ZfmRsUlQFsOc0QLY3tth4R_tjkt2JfQryKvWYx8t754TArbGsuPmpOawlORS7q44jkaRB3893uGE_6JwKMIpHvqqMu7XQ6jJr89RCUyrZt3rtSBlwJfy8i-nV-mpCAifYDDZ-gnTg5194MUE.
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYWlai1yexdj0k55E2QxhQmD98WozAzA52A&s" group-title="TV", TV J SID
-https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w727265393.m3u8
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
-
-
-
-
-
-
-      ######################## XXXXXXXXXXXXXXXXXXXX #######################
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="TV", BAND
-https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiI3MDBmMDJkMy05Y2QwLTQ2YjktOGYzYS1jYzU2OTJkZDk0OGIiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1OTI0MTQ4MiwiaWF0IjoxNzU5MjQxNDgyLCJleHAiOjE3OTA3Nzc0ODIsImp0aSI6IjcwMGYwMmQzLTljZDAtNDZiOS04ZjNhLWNjNTY5MmRkOTQ4YiIsImlzcyI6IlNwYWxsYSJ9.tSR1SNy8OuUdVFQ79Iadnt1lcxUE6GHI1ci6fnAUmLw&uid=700f02d3-9cd0-46b9-8f3a-cc5692dd948b&magica=sim
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_nylHngfFzTCUgP_pKTO8taMXkapa3rqao6QlBdWsltWeT509Do3XXM7HAK_Q8TKP6WgcsOdqsg=s900-c-k-c0x00ffffff-no-rj" group-title="TV", TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizwp0Bb9WjvqCjSKKDAzFPQehtvrJ_cvXaYYgBVXdu-mfCcHvxaPVG7Cx2osPA-KFRbKULujYD7HtAeWmhu100yk6g95ME2Rc8CL9QheP3Vz-mIKx2Gol8KDY5ocifoSGhGuSNoYQTisMusjj1V27lnkr_edbhoWvN4ipaRGX8MkxjO7kiCX6nUR3JfmY/w1200-h630-p-k-no-nu/TV%20TROPICAL%20-%20RECORD%20RN.webp" group-title="TV", TV TROPICAL (Record RN) 
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1158315526.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
 LINK⚫

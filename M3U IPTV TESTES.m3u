@@ -5,17 +5,17 @@
 #EXTINF:-1 tvg-logo="https://televisao.tv/images/telecine-1.jpg" group-title="TV", TELECINE 1
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4HMN6bFbV0h5KjP5M820lvAHF4GBwhWh2NA&s" group-title="TV", TELECINE 2
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1978292499_b30048000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2GY_WqOgiTEt6xCZP6pONJnWHfU0Sl6YNA&s" group-title="TV", TELECINE 3
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0009/4137/brand.gif?itok=zoAN-IFO" group-title="TV", TELECINE 4
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyk2yaQQyX3dg96Jmt76dBTfbW-n7whPDQrQ&s" group-title="TV", TELECINE 5
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
 LINK⚫

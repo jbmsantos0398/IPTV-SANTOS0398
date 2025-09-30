@@ -40,12 +40,12 @@ LINK⚫
 
 
 
-      ######################## https://programacao.tv/ #######################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
+      ######################## XXXXXXXXXXXXXXXXXXXX #######################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="TV", BAND
+https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiI3MDBmMDJkMy05Y2QwLTQ2YjktOGYzYS1jYzU2OTJkZDk0OGIiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1OTI0MTQ4MiwiaWF0IjoxNzU5MjQxNDgyLCJleHAiOjE3OTA3Nzc0ODIsImp0aSI6IjcwMGYwMmQzLTljZDAtNDZiOS04ZjNhLWNjNTY5MmRkOTQ4YiIsImlzcyI6IlNwYWxsYSJ9.tSR1SNy8OuUdVFQ79Iadnt1lcxUE6GHI1ci6fnAUmLw&uid=700f02d3-9cd0-46b9-8f3a-cc5692dd948b&magica=sim
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_nylHngfFzTCUgP_pKTO8taMXkapa3rqao6QlBdWsltWeT509Do3XXM7HAK_Q8TKP6WgcsOdqsg=s900-c-k-c0x00ffffff-no-rj" group-title="TV", TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
 LINK⚫

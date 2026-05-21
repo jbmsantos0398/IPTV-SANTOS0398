@@ -79,13 +79,13 @@ https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8?hls_ctx=p3gzcezn
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC9KRLpNnlExnaOAwXHfUmi2G6p59gcpMAw&s" group-title="TV FILMES", TELECINE 2
-https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1827127058_b30048000_sleng.m3u8
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1786352498_b30048000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC9KRLpNnlExnaOAwXHfUmi2G6p59gcpMAw&s" group-title="TV FILMES", TELECINE 3
-https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1827127058_b30048000_sleng.m3u8
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC9KRLpNnlExnaOAwXHfUmi2G6p59gcpMAw&s" group-title="TV FILMES", TELECINE 4
-https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1827127058_b30048000_sleng.m3u8
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5NotOq-Tz0ma4JhX8dpRU4wxkE-lXSfPKlQ&s" group-title="TV FILMES", TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w690791532.m3u8

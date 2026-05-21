@@ -105,17 +105,17 @@ https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=758
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhFKpcW1iX7MB8vZNr-X-LNdhD0vhLjDoI9-nAs18ZDC9ZAx9wCe71ii3wcnuZi3yULMoZyZGWmjQWnG2eIiBhbRvZalD-co0SVsMzatnxEew3SjPxB6DUA-dq4CTOUKbJjr2fce0eTXt_qjRuIqCKVhRxQQBvKlDn8LCVWNKE02Nn2rE6L6ERvVJrAI/s200/TV%20NBT.webp" group-title="TV FILMES", TV NBT (Rede NGT PA)
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizaaz2q5gh_LZSOleJw7yQb9FNnwH6ZJjFeaex4WhwFEueZmsB1YccrStJeEiMgbAEgNScQrY3-FD1WTMnRcvHAx9JBpKhD4lbNabtYO7SMBoWwSYD7sqMkkL8cwU6Som028A6ohp4Xr7B-kVjAnXWtOjyo2_Wme3RF4Sk61dhkyLC0cpcTX2AdQxhjMM/s200/LUCAS%20TV.webp" group-title="TV FILMES", LUCAS TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2QMkejvf3FYgBNG4K91lAR-8cTFOGAbcJTP1IahFGcZAeq-1oPtZDd9PbuKRYPkGkPWB_CAZ6XQ8SsEpyPKJ8AWSIqlalwPM9XmxlaLtqbpd9NwD14z34Ut3ZO_Fs2I1PxUpvjw9tRXFSAo0WFaffFiXEw2TUaCsvxJegctPnwVjjr18dtrLy74UVoJI/s200/CLASSIQUE%20TV.webp" group-title="TV FILMES", CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipUoB3NgjpcOgunkSik3x4teoWpU__fip0OcyVKOLn3nd1OS8zzkVLkLL3YF57ObcHK10wSL43arPt9eJbwB9x0uqjyxNawQJ1y76VzgVN0MkknlKejN6cvSp5Gn2rJrHTZKVO8J5fFia2K5S23epq9sZyRh_PO6x__rhWBi7kfpZc4l4LsxP2rAhs9UM/s200/REDE%20NGT.webp" group-title="TV FILMES", REDE NGT
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eEG26n6b4SOVAkwgabHiRzAqpvJo80Da_Q8Tjt6oO5WrWmisUTMMUm4ihEKwWX8RtqppXmxr6szY5skdwQqC32Tkyw5vkKfAEFPTSY1YAPGO8Glmec5LUzcQk1ndg36A2u8Z2k4Dugru21yTTditwKSDW3q9BXrV-1eMinvM2RkJ8IKlXGBXUtJ8oGE/s200/GLN%20TV.webp" group-title="TV FILMES", GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=ww50w17p
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
 LINK⚫

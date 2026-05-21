@@ -8,7 +8,13 @@
           #######################################################################
           #########################     TV FILMES    ############################
           #######################################################################
-          #######################################################################
+          ######################  https://televisao.tv/  ########################
+          ########  https://www.cxtvlive.com/tv/language/portuguese  ############
+          #############  https://www.olhosnatv.com.br/  #########################
+
+
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgY6K89Rag4d21yIpnLwm7W4VpRPrTORboj-KLz5e_T2aYcwustg_TKS9j-PKG-vh1k4nPDD9Y1ZoTPjG7BnQ5ktv6Wth_yw28jCH9tDEHVD4uhgtddukdnMqxd9moSW8tG1Ca8R3JFlFqvcP1TFLxJ-5yc8S6PfIFP7J7yYHa0oITYnDXiHLCMBTOFXw/s200/ISTV.webp" group-title="TV FILMES", ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w107105731.m3u8
 
@@ -69,20 +75,20 @@ https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8?hls_ctx=95p4354
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnpWClBsG7pSXK25nejt1UNv2U8hjGCYOTwjYlbch4Pa0Q0z2Mz4ooEZgSnZbzQ1QyqKtaPhwtldb6tKVZB3cjq1Dgq3SxvnjSfLxbShVX1eOS4S6JK3EF1a0xsPr08Wc3LiH8zZJ6NEpDDqaNBIXJG48-mZ1KIqYPILTUrJIZQLWZK4Sp9i16ylVaTo/s200/CANAL%20SEM%20LOGO.webp" group-title="TV FILMES", TV WEB SÃO LUIS CANOAS RS
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8?hls_ctx=p3gzcezn
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC9KRLpNnlExnaOAwXHfUmi2G6p59gcpMAw&s" group-title="TV FILMES", TELECINE 1
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC9KRLpNnlExnaOAwXHfUmi2G6p59gcpMAw&s" group-title="TV FILMES", TELECINE 2
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1827127058_b30048000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC9KRLpNnlExnaOAwXHfUmi2G6p59gcpMAw&s" group-title="TV FILMES", TELECINE 3
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1827127058_b30048000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC9KRLpNnlExnaOAwXHfUmi2G6p59gcpMAw&s" group-title="TV FILMES", TELECINE 4
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1827127058_b30048000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5NotOq-Tz0ma4JhX8dpRU4wxkE-lXSfPKlQ&s" group-title="TV FILMES", TV J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w690791532.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES", NOME⚫
 LINK⚫

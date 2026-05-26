@@ -456,10 +456,52 @@ https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 
           #######################################################################
           #######################################################################
-          #########################    CATEGORIA⚫   ############################
+          ###########################   NOTÍCIAS   ##############################
           #######################################################################
           #######################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI84Ty2-c5a0Cy6_37FhJFQ2frSUXAkHfklFclNih8lfgsXw0kZRyjNUOZQg16TjmcBiQOaLmwDlDKemQM6gC9HYCFAf-6xIHdP6IruKL31cAaNI01FcPxQQnxMRi7NYVnTFEkevV45BEGui2ABhxh81-N6vWzsR-rACG8pZDESxJZR1nJMu0fmSNmYvg/s200/RECORD%20NEWS.webp" group-title="NOTÍCIAS", RECORD NEWS
+https://stream.ads.ottera.tv/cl/260526d8amifdm9h4s7397do3g/1280x720_3071200_0_f.m3u8?i=728_5431
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPA63NIj3PnfRR3IZO47SGGKnszgQC5EEA5SC4KzmuemiFMW4hyphenhyphenwaqVSfGxP5p3EVp-SLZW2HveCLTQrfjwqW53rU_uho9xwkSiWwJAAB68VUUb6rz2jBcrTpIk-IMZA2NorcUnaMV3EjtwcrWi-PUU2qyLwy524c8CWA9Wy6vooaF_-M_Oa_Vd4Vn5p0/s200/TV%20SIM.webp" group-title="NOTÍCIAS", TV SIM (Record News ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1585378270.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eSRJAaVzK61_pCYgoguTOmX0wgoLhPhjGWiwxT1megl_R1jk2SnMMTZo7NUJzn28jNLXEl06IQQCeBVvnUoyCJ3ssvtqqlgPSsRm8h2f5rZO6QRq94z6v48aswkwKOKkSQeK5lreAOmBII27X_rJcPpOGvmZRNklxfxLpq22z3ijHd_ifiN9xrB7izg/s300/TV%20GUAR%C3%81.webp" group-title="NOTÍCIAS", TV GUARÁ (Record News MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1992346604.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjniuAb6KWpY_wpOIq3MPmdbUboqUAegIeg0If-3qNEyZU299qxrNz6Osl_auzI-Q-xyk9amXuFsGYxOXPQzmF5sscfc1YbX8ujnPlG8ohyZupzZDiA76FBkJEcMybOdhczlxhZNCwxzjnDMXmpJcGTRFhKLVke4K6XFXJKzrXbsPrpX9c9pnJSYNEpa14/w200-h100/TV%20CRISTAL.webp" group-title="NOTÍCIAS", TV CRISTAL (Record News TO)
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/chunklist_w1425292824.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4lcKtwWbA2pqz0Rv6JToz2LI1HmFeb956yUxjoEf8gA9bXc9Wle_zmKsRyLYkhmnwgcr6xnuwb4XZiltxz6Zu7DPVGHNxeazz3B1qBY-3RbtkoP19vCxES9vYDXFaq8y21U8MadKoFMNZ82heud_Cj2FcqtMSIJ2AfDdcsgk_a1yLitHKXro0zUFj/w200-h100/SKY%20NEWS.jpg" group-title="NOTÍCIAS", SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/07_1080-30.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmcHhWRiH_CeAbAj2QCK2-7Xa6YUuAeq2SSNFI2iQiI9ioKpO0CIGf1PdlYQHzoTMeqGa6NqblLMo0Kuz5vuHR5PlTV3YoWMi-e_oSn0M6j8yVjHA3YK9vYaQ-PIRSAtNoOCKL4tSMnbDCgKmcs6DOPMsii21C4waV109iSYMEGf22905TTmejpZmJ/s300/DW.jpg" group-title="NOTÍCIAS", DW (Inglês)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmcHhWRiH_CeAbAj2QCK2-7Xa6YUuAeq2SSNFI2iQiI9ioKpO0CIGf1PdlYQHzoTMeqGa6NqblLMo0Kuz5vuHR5PlTV3YoWMi-e_oSn0M6j8yVjHA3YK9vYaQ-PIRSAtNoOCKL4tSMnbDCgKmcs6DOPMsii21C4waV109iSYMEGf22905TTmejpZmJ/w200-h100/DW.jpg" group-title="NOTÍCIAS", DW (Espanhol)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNgFligj7u4LXl5n0o7xtFlCb0C-YQ7D48oDFEJ0RHsYmYOTpOaW-AHdv7z_fvb6_K5_mHVggrTtPspaHNLoak6lAnzE72p1g9SZRqPMNBQEVtOV4vPUzJ_GJLRJ1j3lTJDq1XtKRJMuRE_AZCXYe-U4wlkTzUdOH36AU9GsL4pADHKhvZ4ssnr5h/w200-h100/AL%20JAZEERA.jpg" group-title="NOTÍCIAS", AL JAZEERA
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
 LINK⚫
 
 

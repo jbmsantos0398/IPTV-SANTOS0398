@@ -1233,11 +1233,24 @@ https://video05.logicahost.com.br/tvmais01/tvmais01/chunklist_w113763843.m3u8
 
           #######################################################################
           #######################################################################
-          #########################    CATEGORIA⚫   ############################
+          #########################   DOCUMENTÁRIOS   ###########################
           #######################################################################
           #######################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwx3MrNrvcSLzC_JugY05887GQuoQwkMr6CDH8E5-QRC0pPhGZe8enDAU95lKnOD_Ti-iIfYuECNDbkslcrMXbHxycAngnV094OwvjcpIh4c4ijOyr5Z1SehhZbDCfYjKbx2UwfrPiLVd_D2cJxM-IfDY9Z4UhFnYcJD8jXOaeHlx2xYg-pNnLQvNzdjg/s200/TV%C3%8DDEONEWS.webp" group-title="DOCUMENTÁRIOS", TVÍDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w912695617.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRL2zy1aqRmDSawdfx1nLl3jKCs3CUrlDsjKLgvl-LRr_ek5bgmeHkQ9tCmmBe06Vzi-xTOfIaPIbx-sW6Oj6M6J0wv-fbygH_9WKExZH2fE7xAA587b8Lq-vKIguyYPdknRKfDUSQ7oX17kb-JQQiXkOaSG6x2NA-Y6eUpEtVtWxk0J6bc_OYwB4InVA/s200/NATURE%20TIME.jpg" group-title="DOCUMENTÁRIOS", NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/ts-eu-w1-n2/playlist/amg00090-blueantmedia-naturetime-samsungfr/cb573d197c6c668984cb3a62cef84582967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dc64bfb102488b2f57f38b42c88514e98780469b4ad220ec159cc4f196811487818c6aab55b065590f267cce847ca1283cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b23c81d2e7123335f96d1487226b3a7d0e261819cdc149981cca7165f9cf706790dae07bd747961c0ad995cec6b74e796e73a6a07214b60e829f9d655f596932d00ed04c7c2e6913e4301450b10925cae9f77da137a19c2d33e2e464448a19b1a91c8891e785546888451c3005b97efcbd28f406b91202c53e6368d0045749a60253cc43de996395b8c24218c2172ae0b62ce11aaf864de8fefc82a77f5d2ce49fa2fc8b009d9f94be94e344b0dbef7630e11143380a036436039f044e2d2d8e8385c53bbb99ea880763c0076460654c5b2a920d5deb25c777cf65a28647b0704d655861bb82e7d407f995083d6461eec2b282ef4a82c525c78e4a19c8884c4c557ba79c7b5931c2b3c5c23f073322f60d7b99a4abf5f6f7b695694007449de560f170af40612253008addd085fd03c6745ee5bbd2a19852ae9/155/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAZdPAveXEy4JEaB8RGA1di3UqSIHewOguqih7StpsTkxF3KAk6klyMIq7wdS0nwo3-IzdOb0CkkW4_nU9kLs87o1Cs2WxEaPOmjv2IJLnLBWtYzKLakHp2d9g1vxD6OBujh6AWGW2fT6a3d5tRv3OySxIHRitaVKwwjQCajPOEXUMNsXdNs3AJk8AOVI/s200/TV%20NND.webp" group-title="DOCUMENTÁRIOS", TV NND
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8?hls_ctx=1fo4585f
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioHkpbjQxq1NlB0ZZ7sgm5IJQmtDxj1istOy1chf9cnIW2il8A1P8LXjRXsMTjjlF3Psg0wrPVRGGomM69bmv2Un3amXt_9dI0BW9goKrImh_gMnrKJEeQgdmm0y2Kc17K9rdDJ-y3DlDNzR2PLRhcdcw9xwsvkoW-yW2NvcO5KyTIv6R2OGhHXiJ0/s200/WILDEARTH.jpg" group-title="DOCUMENTÁRIOS", WILDEARTH
+https://wildearth-ono.amagi.tv/ts-us-w2-n1/playlist/amg01290-wildearth-oando/cb573d197c6c668984cb3a62cef84582967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dc64bfb102488b2f57f38b40ccd31db8d181469b4ad220ec159cc4f196814381d58c37f854ba300b08207f9dd12ea1283cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b23c81d2e7123335f96d1487226b3a7d0e261819cdc149981cca7165f9cf706790dae07bd747961c0ad995cec6b74e796e73a6a07214b60e829f9d655f596932d00ed04c7c2e6913e4301450b10925cae9f77da137a19c2d33e2e464448a19b1a91c8891e785546888451c3005b97efcbd28f406b91202c53e6368d0045749a60253cc43de996395b8c24218c2172ae0b62ce11aaf864de8fefc82a77f5d2ce49fa2fc8b009d9f94be94e344b0dbef7630e11143380a036436039f044e2d2d8e8385c53bbb99ea880763c0076460654c5b2a920d5deb25c777cf65a28647b0704d655861bb82e7d407f995083d6461eec2b282ef4a82c525c78e4a19c8884c4c557ba79c7b5931c2b3c5c23f073322f60d7b99a4abf5f6f7b695694007449de5602100af41a12253008813ec532713a7603c869447b6cf94df7/182/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw8kFu-tfwoh85nT--AniaFKWC-RnuN8dEyKkbLFVUdPYAB0cQhET0Ffjjx_9NTnMRoLUdIyE6Oxx63W758qQbmQp9YI_5GWVElBtUcKZp8RyvcB2L71Cxi4WAEn9WFN9FAfg00cET7dit9qz_VCZ-e4mOME2BDJaeAbnwX1ag-2gFEwV1Gxy4Pmzx/s200/RT%20DOCUMENTARY.jpg" group-title="DOCUMENTÁRIOS", RT DOCUMENTARY
+https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+
 
 
 

@@ -445,33 +445,6 @@ https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/chunklist_w1231503008.m
 
 
 
-
-
-
-
-
-
-
-
-
-          #######################################################################
-          #######################################################################
-          #########################    PEGADINHAS   ############################
-          #######################################################################
-          #######################################################################
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4qPlzaYL2uh1_1toFLHRr1HV_cqyT1t00F_tdZfpsR2GHodRACjTzcaMmCXalMujvKcrAMvcF_nVLEa__4FAJHNpadhVfj4x2nKxtf49GYBLmY6IKGzDEUg97GN88kZgQ5ZR1MelkK9p2sN0x8bCtQ-ZMXbdY6s7PCSeW1qqFhcWG1gHSw4JDCD0Sngk/s200/JUST%20FOR%20LAUGHS%20GAGS.webp" group-title="PEGADINHAS", JUST FOR LAUGHS GAGS
-https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMUOKLSZdGm5NuzbpLTEomTBXzZmpGv07HEVOSgmw2NJB0q3EOeaJClEx1S7a_SrgG4FksX7GQq7zMug7Q20dKqYUWreeqOyW6wIr2X1xNmQOyhbW4i85tn3Jkg136tPOSykghbxKDGTxkMpfLYGkVPnarCcTPO_xWREYScNyTxSJ65StGhPXuuPr9_Ik/w200-h100/FORA%20T%C3%89DIO%20TV.webp" group-title="PEGADINHAS", FORA TÉDIO TV
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-
-
-
-
-
-
-
-
           #######################################################################
           #######################################################################
           #########################    PEGADINHAS   #############################
@@ -526,6 +499,68 @@ https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh77VeIEKCqQ3xKkWOOZ20LhUDF_wWk8b1WkWsGtmOFIyjoLpMNwk6DskMUd3N9zpjQTQNxN_gHpR3zjepeEA-XgUW3sWptpmYW8sSxRrU1fwrhjtn8q67hhD_xHpfo_-LRDh39UW70TVLV9qXU5rVToLsB-jeCjs6z5IGc9HGOJO32I1TzBpQRB0EU/w200-h100/BLOOMBERG.jpg" group-title="NOTÍCIAS", BLOOMBERG
 https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/origin/contribution-m1-btv-plus/6128k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/hora-news-15102024161011718" group-title="NOTÍCIAS", Hora News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918028/ei/bBAXapi2C9uZobIPpMbe2Qs/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/vhJkNpa9FOw.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwrxw0GWmbkWPnBqkeCdbaq7-uWeUbL0yVr_R2onZ-z-nPyH1vq70R6HIovKr4c7c6EBHOhCCI0H/spc/96Xrv-88NCvr8x8J3ESuESZfESvGWQeMbZ-_XpTZVbHcFeaMAg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1825000/met/1779896428,/mh/gs/mm/44/mn/sn-cgpn5oxu-4vgs/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgedYbTJusK-m2e_XPeW_gYIXcLIfp7oDV0LSrEhC8ggQCIQD5ust50lrz5xQ-kWpVdksxAtJvRqTeM-piFdfOB-cK1w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgVbYx3pzkeGxu_yssXoKBm9R-ZS5byWA3mUKPURBV374CIQDj0vzwPpNbVFyP28ElbDeD2_QZLPybIcHnAzGjCYYjUg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPOSFU6uRQtdPN17ncdhMs40hzuD7OtCDIVQ&s" group-title="NOTÍCIAS", Bastidores CNN
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918024/ei/aBAXat_lN7CsobIPruSl8As/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/_rNxxd4ikQc.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwoaxW21oVhNJWZgoTJudtwV7y18-zLo50sM3RP2RYIXnqkYGs4urQL6Pkso1IujL7p6La96f2Ez/spc/96XrvwCBzwM-lM0JITFWUCR8OelDccLieIwjd65J_OgV7Xgzxg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1993750/met/1779896426,/mh/kB/mm/44/mn/sn-cgpn5oxu-4vgl/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgRaYIfJCBuvd89RFMaPTsDibZx5bcRFVINEttR-Mg59gCIQCxUVODb32A8g6lRTNpPbnQMKJQ0CC3hKVDJjQeBUMuhg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgbrqqbAyVONktNapZZUQO4nkFj0JbOWZNWGGUG1xrVDYCIQCouCCpGqK1meSiAq8xaz1uhXmr9WExR_j-cAR5irxc3Q%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Reunião de Comissão
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918412/ei/7BEXapDVB-Dw1sQP7ZvuaQ/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/VtAQwUXA9OE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-cgpn5oxu-4vgl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpDD8k5NDieFD1jDtMx4WJKP3il5CHCTValacK5hM4FPCnwauaakAh6OLWxZ5cFRlY-TtCKuEVd/spc/96Xrvy89o88XWUaAfq4R2TNRxlRJrhCO5BIL5A-APk4T_rxTMA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1993750/met/1779896814,/mh/VW/mm/44/mn/sn-cgpn5oxu-4vgl/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAO6HBtfFqqCGkvb_Xkg8gWLO5kf5zyjI76drNtMxU4qBAiBfzFyehTu9AyxTzr1o_R1lUydI5Ac7pCjNPUI0XC4OIg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgH61Kc7LT1LpRnHrviL0cQBOXxr9uDdDCvLeLb9J7jF4CIQClMaMgOyLfCImTh1Ch3XF6sv_EXGbF-WCpXJxPMWGhUA%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Radar News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918413/ei/7REXao-_I9ib1sQPpfCC8Q8/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/daTStO9HxQk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-cgpn5oxu-4vgz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwrd5Km-uLmHf7ps3lRGycRJSGzivDVR4cVBipbUOexAngZ4AC4ktQkTap_5ZfztRBTECXI99g3h/spc/96Xrv0mHbG7IyAdo-6gKrtd3CSBhh0y2iP7gK5_in7ZvO6fnYw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1847500/met/1779896814,/mh/ta/mm/44/mn/sn-cgpn5oxu-4vgz/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAPeilJ4in2Vl1P7zCUVNE1y0YE6fyg8lUYiv1RTZxIC-AiACMaNPkJelwVnTj5nPiRW0keDY5EtX-6FihQ8TmnE8qQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgAtMUYTFvQqhRVlMXRgAMTN_QZaSAvVbR9_52cHDfKbgCIQDMZQmDMvHf-8xafFwRDgH0KoMJEVvyvN4r3AOAGc_11A%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Folha Política ao vivo — política e opinião
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918411/ei/6xEXaumzB7OzobIP_ojy2QE/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/mKkTU88wJd0.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwriOESsYQtu0x4hT12dxSvFur9HKJBauwZvcsVYJAp9pLChf61K3siuanLoNlrArgirvh0G89RN/spc/96Xrv-Cu3fj04J7612h36vUmXqF2vYah_FhAe-l0lp82JSRi9w/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1847500/met/1779896812,/mh/5w/mm/44/mn/sn-cgpn5oxu-4vgz/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJKyVg8I3pXq4_f9YZs2TaLbDXpJYB6o35ZMaoJeXGv1AiAS2mcbAwPHjOmseaBcTxxETMSDQPKJ1ESPgVp0kohI7A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOlzHtE9mppTprI0pCXRwRAaI7KWHek7b_Io3TlkJ8XUAiB7gbc9w5JBzN8-nzUKGqMN3_CP1Cm0mS5zRRq09wWDUg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Euronews ao vivo — notícias do mundo online
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918410/ei/6hEXapfmF7H11sQPisGykQI/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/XuZAl-ZPEcA.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-cgpn5oxu-4vgz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpsh2wx6mPiQ2psM3cbgn9cNmO8P6DfmQDYqgX3sJJ6A_2PaPFezFS5pPj65isjAH8ZDXsI2xPX/spc/96Xrv1NTpXsEnjvyiwtGT4HlaleVI4f5uJ4frbnQSNuYx9DtQg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1847500/met/1779896811,/mh/4W/mm/44/mn/sn-cgpn5oxu-4vgz/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAL8Okb-7iL-bgCyu0k9ZDbrHrQ5w8JYEYwY2fz6UO_hGAiAG9pUUVisWi2pBymW86IjIgBZmfq6CV4ecEV6uftprxw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfnYl5msuqdSzzv7SBB5wXiilxp_rhcSDmy0B0vHVRS8CIQCLYIvLfBWhnLVtfe0-EnY2tl2x_WkBf6mxlhl2rje-gg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Brasil em Dia
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918409/ei/6REXavaFCJ6K-LAPrY2WoQE/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/rH8iPiAP8YI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpm6yszMDk-1625LxLpT9daixprettxPo6XtE7NYrFSSitosG8TTpc7Y_d3BUmZz_7KQAWLm4mV/spc/96Xrv_29FzRRoe8JZr6OiyJHcQlUmnYNjcXan3lDj7bMbZ611g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1847500/met/1779896811,/mh/OI/mm/44/mn/sn-cgpn5oxu-4vgz/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMO2GZO_jkoIa_YHVNeDHKUwiEb4FvQAa6UTVKgBzH1JAiBGuGCDV-CVZPb4GvRMBPm9647aLgGbXIN7DWkd4pWrQQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMM_dEwga9e5V-GqBz2JWl13ylEmZRNh-7eXzj8EckfuAiBBjsyPIDoy75drhCy2bE6jPKONKjuVxeKXMB0QivCNeA%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Pânico
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918414/ei/7hEXauaEL4eZobIPjefEiQI/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/sAAVW2SJkds.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AbKmrwqaQVYeDEF1Qlqf8ilUjAu7eAlxxHnpwE95syNjOFYedg02Om58W072wZtZ8kotUqlb4_8nd2IV/spc/96Xrv4yWCYf3iG4PLOfo2r4vLMaCbZyuVTfT3OFZS9DIzjX73ilUFSM5jt_bDoXAKxxTww/vprv/1/ns/BJPDy_pAT4bc5gPY5WBbmZAV/reg/0/playlist_type/DVR/initcwndbps/1847500/met/1779896815,/mh/qf/mm/44/mn/sn-cgpn5oxu-4vgz/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/n/2UUMzctG8yEBZhv3v0M1/mt/1779895715/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIgIjSiwCNNqj7KX1IZ51g3RJLYA-iUhAv1hsXNPVmU6YoCIQDBhVDdqfdky_bD7rMe433dVLqn0zUZGN4-LZm72An4wg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgV_r_VSYckQDKwpTm_r-SNP0H9JvFmsjmvxYKEUglUA0CICWE5UWiTC7Kx4rPesxG9qhevpQpkLvfURXLMAHeK75Q/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Boletim Justiça Agora
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918575/ei/jxIXavGfBZ3WobIP-Y61wAU/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/20pNCjFf0-o.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-cgpn5oxu-4vgl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwoAS09DCJo_PiQYZCPQRXSHlWcb_h5UtCFHnZinCE0EYTrMrPxUqaqUZuyNlBBvCQHaM5YqgItU/spc/96Xrv6fcjkyBPdkjMhocPGjLuAnMHjmeC4ibSQLLpxYAQmyo4w/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1910000/met/1779896975,/mh/_W/mm/44/mn/sn-cgpn5oxu-4vgl/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779896678/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMElmY2p80u5myEhz52RHnZ5uSwR5CrZ8amEYcsRK9avAiAvz4uM_Y2QUQHdwepNNeDUHwF5vM4G9YPm9VgGXANBrw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgEQ1H2azkDzb2YsID8rLKIYczFwPH-g-IkUzil5FB4SACIQDBEh7Fsw7FCbPFYnTJM2gr6pv0Yp5zBoYNr8_Ki2eiWQ%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Canal Saúde ao vivo — informação em saúde online
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918573/ei/jRIXapbOL-eMg-UPm6TjwA8/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/5HuiMZTHUFo.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwryZcdUUQtJsdkEGQfVmQ0w5OxnEc-XNQFiTkllQsWlC7QdoJG7iGIgfnYtgjKpCMuCZnNgnXaw/spc/96Xrv9sLur3APkHkU2m_TPH-XoXlHl81LvDzj5ymbiUc3-rWCw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1910000/met/1779896975,/mh/-C/mm/44/mn/sn-cgpn5oxu-4vgl/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779896678/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAKPE7YznWL2Un94RFFmARmcccXiHLTeRpyfOpHJCBHsfAiAH-0X5ma7YwjgOCQrleRuTnwSyywiyaL6bIQ1zN5-Fmg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgczwHU-28vEIF2Xgx8QqNpleZy6x48egNTm9ZXFVX1wwCIGFfGiJwhoMNhjmKxENTOowCMRFROF49lAuzQe9YoKSo/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", RTP3 ao vivo — informação portuguesa online
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", TV Fórum ao vivo — jornalismo e opinião online
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918572/ei/jBIXatPHHP_4-LAPi7rb6A8/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/wWX6HgK4DVA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwr2OE5raaZBVMz228KyIauL8ZquR2UkpWkv2X09QQbNPIfdDwtME0uwSqGw1zZb7llDk1yCo_D6/spc/96Xrv-MR4kjL3HQivTEZ92THWUULXKompjoBdVs5d1yOEys5ng/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1828750/met/1779896972,/mh/V7/mm/44/mn/sn-cgpn5oxu-4vgz/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779896678/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAKuNk-R31z7v1jEkZ5G4LMiv8x9Wl_brEwYBdmMADWI-AiEAzb6nb-Vr5KDi_TaRWhFJgYkXz_ze7kpBPh09Avg8Mno%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAI-vGwaiik-WZEwah0AYAM1cc61TsQvmfWo7tfnGPi0LAiEAzQ_2YNb_V3SN4F2Smt0RHbg9pvrmfoV7-FcJiftUcFQ%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", Meio-Dia em Brasília
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779918567/ei/hxIXaomLKdeJg-UP9OuP4Q8/ip/2804:29b8:5222:2439:3581:d700:d306:42a1/id/IPKt4gcPGME.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-cgpn5oxu-4vgz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/force_finished/1/bui/AbKmrwrTdFmMKgk9WzuG9ctZyxhTcpcCqjjQg0LLPms3Qt5LSDYcoiv3B_y61yQSh_24XsJBXPYlpQWe/spc/96XrvwRVKcGzdDi_YVR0P9t7xx_fYsRxkmYey3XNZng48ANnTg/vprv/1/reg/0/playlist_type/CLEAN/initcwndbps/1926250/met/1779896968,/mh/65/mm/44/mn/sn-cgpn5oxu-4vgz/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779896698/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,force_finished,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAO-Vmdh0sFwkIwGjLmEoom6uzWeb5Vl04Pf5wEfe2MbeAiAvhABYLxzIpqUT50-PUgrkb7qHYYsSgeHzeGn7bDrOkA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMMKy9yVSE3U4DsfJiGRbwg3eoZktpJiqEWGs22S8KxbAiB_AfmDM5wlWKlSUhnsAGTrACMUH88o-tidnwalRqGSog%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOTÍCIAS", NOME⚫
+LINK⚫
+
+
 
 
 
@@ -1873,3 +1908,7 @@ LINK⚫
 ##########################################################
 https://programacao.tv/
 ##########################################################
+https://televisao.tv/
+https://www.cxtvlive.com/tv/language/portuguese
+https://www.twitch.tv/tvvarzeagrande
+https://www.olhosnatv.com.br/p/blog-page.html

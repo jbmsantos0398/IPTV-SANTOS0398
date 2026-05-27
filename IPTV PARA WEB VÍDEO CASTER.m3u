@@ -1260,11 +1260,70 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
           #######################################################################
           #######################################################################
-          #########################    CATEGORIA⚫   ############################
+          #########################     ESPORTES     ############################
           #######################################################################
           #######################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHswu3VhoeHl4rGya9L5go9PTpft0olg2i5Zld8q7cfpPka6h3JDlZD1OACDEpEehFbJei5siNW__wZQ-4cOFMVmM9mEuwGKfkAhIndOkF8a2Mh1TSz7TU63KasMDm-TsvBj6TYsSYoC7Cg25itNOQnHNpyVXeZGSwmdj5Jh92e3gxnCCcaGQDTmbAmZU/s200/ESPORTES%20BRAS%C3%8DLIA.webp" group-title="ESPORTES", ESPORTES BRASÍLIA
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w59099148.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sopJ3sw9Ft2aQX6RdL4oWfboFcdnPSDCxpZceVnYo6Tzt1YXSwiRjkk3LbWYLtlzETfmLsiJGLBlWX6nbw4Y_H8XW77ZbwbwxGRz90YyyOOWFmPvJEZnZkqHVqC8GwEc83OGhmIfPIqTGgo1MuXu31XXpoQoxv8NTXbuv2lK8j9hdNZbfa24PJ8qZM0/w200-h100/SFT%20COMBAT.webp" group-title="ESPORTES", SFT COMBAT
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZQ0SYQZTPDksUIHHirc9FkvBUFB-e7nNExOr0d-XMrMrfRNizZdG-paQtaVj4TwrNQLcRZVp4Uj0QZOxSq4938QUROb0AaEm_97ohblTqA6Yx_GB8JsiMOmGNPqjMCu_GPgVLwOE7xgoXy3EInTir7VvO9P7UDjXruydxpD4LZLscy73KvG_I4jhWwg/s200/RS%20NEWS.webp" group-title="ESPORTES", RS NEWS
+https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w974628427.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSuDEglPnn9IFcb36kNgLCtASJ46qOhz2p_ryO5udWGQul3hYgS3JdolwY_l4HVK_AKvL1ngzrdqpYvmXT3nMfn9d3L2tm7aQW5UNBegd42mDDZs7vKJ4kxoMkoJAdMi1F9QBce8MGyRXvtk8ZRoVvzqd7TIhr_YJAcV5Dhz_i8nBPpTydB0-o_rbcgig/s200/RED%20BULL%20TV.webp" group-title="ESPORTES", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXi3B-mBCUycDw7gHaj1aUo7vYU_Pr490_7lTFWRaNVotu6gwD8mHDHWeh7DzddbvD1rcjNRRI99oItv7YQbQOipJBXZjOPJImPiENEQi6r1HVybTgTeqtZrsqMpWM3gRCafz__XEarsLMvn9v366nTWMk2HkgAu5gUMdUUwYtr90NYy2DKixe9GiPcU/s200/REALMADRID%20TV.webp" group-title="ESPORTES", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKDSzakmBZp6SIhXjQgBUCbaU2sSKPnLZddC8zzAp7-BTzoj13iWTyaN-Kd3xv5KlQQJLRklAsLo61giyFJ5sInqueck2C_LGTTVDMj9bBNJhfC1hLMU009wy4uJtAcNLf4scqyW2gSfle_TqVISb_6HrYXl-rq64wHzVStxJpQstDDAV_b246_l6cg8/s200/XFC%20TV.webp" group-title="ESPORTES", XFC TV
+https://stream-us-east-1.getpublica.com/cl/260527d8bgpn0fv3kc73bpg890/1280x720_2821101_1_f.m3u8?i=513_2351
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKbzDJj67i5NMLHt71sya9LLBLVNHj48PcxAayKuXYiKbMvPz25gA1vaExB8GJKmL6yE10FT-AVZzoqemw1hERk9-JIgnxLafP3_9DBHWrCIUduhthSLU_nLWr7chQ7PFPVYU4UZU1w_nOd7ICLgF5U3hbvn7iVMcUdUuGAJG4K88qIJ20Sky6Gf63u4/s200/COMBATV.webp" group-title="ESPORTES", COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjipOX1xe85CQnOHgOHboAiDSqgviULxtItxL4FpZIZ-c9Jq4c9FTBDU2mXoknNxS98ry8SitizAPve5UfnhlNPnKxY8CawNs39oQU8Un-1Jg8tJ1pCPly4uF9q_WSNA1uH45rfSj63I0KP1bfsKeXqaGFXH79c271QgxfRJl_2Okg93lK2OSFsPtehQOo/w200-h100/FIFA+.webp" group-title="ESPORTES", FIFA+
+https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/0c58e981-6465-49b8-8d9b-671a279a6c43/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcuuar_LoDxij0T71WHAqaL4zicZKq9kVg4OADtT3kSS6wHztfmOjNRwA-6oJebmF-Q-_GP3FKetA-m5Kv3e1fun4zfoJW0sftOf7_WRzc8cKtmOycQdoH0Cw0jfYSdA10d74cFsyQHjOs1MZ07db3xxEtQme6npOciZyR0gwx_tItcdEFGwhH2KxLSgY/w200-h100/N%20SPORTS.webp" group-title="ESPORTES", N SPORTS
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1zyM7HL-mejlf6er5gFpwMgqneMeqW2ZzUj1GV5j0LuT3GGeYHP4viwyPvR-ekIO3G1BeSJBIH7fqX16d4qfupEfXSZ1FkuvxENiyz3YrLd0e7HaUxRCxyMuE6PLrGhYlcKCqqqGyix6v1vejInWPuQZ1Or29W-lZR9Td7zHNETarPt9AlodOD8XMGUc/w200-h100/RS%20SPORTS%205.webp" group-title="ESPORTES", RS SPORTS 5
+https://video07.logicahost.com.br/rssports05/rssports05/chunklist_w844434803.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqANY7-1eixazzkFExnqa_ZzCizK2aiqbQ40BBVna26AFDqaKz6m-DjqTrCnkNyT1GDaacRKTr683I8dLsABs-rcjtJ-UMN3DhokypDKQtLDPI_I8qIoLzelNPA1_oRroixMyRr2OH8TNOAwZoLviMhRJJZ_wvJUOYOu0CIjhXSWFObjukr2a5B0Fm2I/w200-h100/RACER%20BRASIL.webp" group-title="ESPORTES", RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI8PE5cj1tD161bPKjXNGy4ZPFQA0HgY_iFUlpq1PHNIR4h42IHFvPWL7I7fZhyR9kj2Vciyux_mfkVLtF9dm_4Q6fY7VtEhONAT-W_MYrHy1X1vtKW3UiFxN0naLNdFXufhPQAD7BT7UpEv2DzGIiRTG6lbUQGjlYWBAy_3ORN3MWPKm4tD-U7XPJft8/w200-h100/RS%20SPORTS.webp" group-title="ESPORTES", RS SPORTS
+https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w2086303156.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSyYujmrB0ccwfakmMksyn1znxZXDK427yU9YYXgxE08HdCTDWu3nA6OQohyphenhyphenaWlzjEgVEtU3uW51sZMpzUwez_aAtjODBO9OWnIer86K-g-J4jTSbwHEOpg6Z5bK_CjIr9RGXxyCkLbIUsRnCl8BCCU35x3AeqjA7aKWgse7zjUzDRYpqCrI15RZhxS60/w200-h100/AUGE%20TV.webp" group-title="ESPORTES", AUGE TV ESPORTES
+https://video04.logicahost.com.br/augeesportes/augeesportes/chunklist_w936453951.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCy7ZjDcvunvx61ZXPuBnpxikyZU4NwUNt0YnLUUjZO08r8n8UqAiYYuGnKy-bgqnCEcoQ176dh0JVi3CFO0zmW61va6MxsuUAHmi67D5LJJOdrvcboF_9nRyFGnX6cUf99WugwktiyUbkplLw7Lcg7mgS1e-nZfFcYr6aX4CBU1RWRgUVRve8Q7kkCn0/w200-h100/RS%20SPORTS%202.webp" group-title="ESPORTES", RS SPORTS 2
+https://video07.logicahost.com.br/rssports02/rssports02/chunklist_w2085266797.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS7MlSNOTzkzc6X4aLBSs2ppt9KEcZKAAEN5qC3uoy0QFphzwIbW5q7_TgkLtEaHhjlPeHIe3H0_Ms0a_BD3szF3ExljeMJaUwhFD66Tqmyv8ffvSVuPX3xEzybMjmBouyGOU0BUIApGcjnV5rTFnJn7rI-VoYpmAQqD0sUGxO5fWlfbehBQlh812woWk/w200-h100/MAVTV%20BRASIL.webp" group-title="ESPORTES", MAVTV BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQcaO-IEd1bL9J8KFXWdtQ-BTMMEMNDbcbd8W_8kVcgfuMePRR_iVJSP07x0ni7dT6WCOnndhRLHrj0vDQJCxwKJTYSoUqXDZRjnpbKaRLh4MzATN8DPqwv9Dvr9zzdSdrCtim0muWJ7_OQKkrm3aVedv0tz-ggQFSsyBhRe-OC2Agmg4j5Pxw2hgswQ/w200-h100/UNIQUE%20SPORTS%201.webp" group-title="ESPORTES", UNIQUE SPORTS 1
+https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicgCXeu4edRmAn8Sv-4Dd5BLw0m-h2cGCpCW0uH3S53ceAR2XBP9QDiTdy4zG1Q5VZRPcCXjCyC7vlAXjZe_-Wt7AHC9EUQLJ3MVFfkhmQa4hGKxxRmaa3DdGEIHlUWuKB-MYxqyqVhcr7OBBmDCSvPDxAJVRuaMLbqQteRKRe4NF6ESXWBSbo9H3Wz6Q/w200-h100/UNIQUE%20SPORTS%202.webp" group-title="ESPORTES", UNIQUE SPORTS 2
+https://pop.uniquetv.com.br/uniquesports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEtySYVXgDU0EkP6FCKy8q3aK_ylTxjeKhKvWxHagrfSG6YJXR4F9HUUdk7z9OceKNJ9kHEoTeYI8KnpKpNwEnzf94X9klwEF-xxY884qAk_kwUA8k0XDzZoWkB3zxua3Unvpqnx1LPfAjQ7ZOkMgRxn9C11Lq77d_YEw0x-LVBCHy56Nm3xYgmjV1yEw/s200/UNIQUE%20SPORTS%203.webp" group-title="ESPORTES", UNIQUE SPORTS 3
+https://pop.uniquetv.com.br/uniquesports3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikD-GYllijQSJ24onxBMqed19kx3WIiLMJh9s-2td_l5_hHj296y1LPA-a5izUAJo2NbqB1aEdQmDWAgr2XN69UHZEu0gEpNRMm-wwmKU4RLARstnXM46up_CH3fjadU4n3npNk9hTQn-bXlwYXm4HVfwqB3Z-9wRZFL6xGtPM728-XGl53lt5JRT6xy4/w200-h100/RS%20SPORTS%203.webp" group-title="ESPORTES", RS SPORTS 3
+https://video07.logicahost.com.br/rssports03/rssports03/chunklist_w175551246.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlBknad3kmK-B2JzRtVZNHw8fgS1D91xCem_N0hPpEj_bQI_Wzzq60jJJW3M6Rk8kLia-CtVuClGxOskW0sz_nLL176SlwT9JXwffXFkKqGYCK6_Mt_B03UhoCh3ekFtcx07miJuIrFOwkFwEkCl7ajWJ7kOKDvd4oT7rqkJuWXhkYKCoOxkCsIHdFS0A/w200-h100/RS%20SPORTS%204.webp" group-title="ESPORTES", RS SPORTS 4
+https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w834659514.m3u8
+
+
 
 
 

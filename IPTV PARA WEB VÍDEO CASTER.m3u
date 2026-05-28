@@ -1737,17 +1737,17 @@ https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cbcbd850001e26fc5a8e03f879749644.webp" group-title="CXTV", TV Pai Eterno Live
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w261102644.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b412af69bbba36276c16d7e3e44ba43d.webp" group-title="CXTV", Terê Tv Live
+https://video02.logicahost.com.br/canal11teretv/canal11teretv/chunklist_w312357926.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7d9c740c6bc88f2f8159247311b72a9b.webp" group-title="CXTV", RS News Sports 4 Live
+https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w931312489.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9921f8a885844f850574801835eb2791.webp" group-title="CXTV", Fonte TV Live
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1655491222.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0c7cb5e3fd63664c893aeca217712b07.webp" group-title="CXTV", TV Universal Live
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_d209e534-6efd-49e9-8ccc-eef5429dc844.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
 LINK⚫

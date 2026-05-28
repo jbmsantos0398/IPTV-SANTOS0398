@@ -1629,35 +1629,35 @@ https://tv03.zas.media:1936/mbc/mbc/chunklist_w1629831626.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="CXTV", Runtime Live
 https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ea9adf10302b28a94cb0d0b88537f2f.webp" group-title="CXTV", Runtime Romance Live
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="CXTV", Sony One Cinema Live
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="CXTV", FilmRise Séries Gratuitas Live
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/72db5538-7115-4ce9-ab9f-1ae409e98d48/5.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1955f402ba9845900b04602e8942e4d.webp" group-title="CXTV", Rakuten TV Português Live
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/5251e866-92a4-465b-b8ab-8b8b2d6d8562/4.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="CXTV", Classique TV Live
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="CXTV", TV Igreja Mundial do Poder de Deus - IMPD TV Live
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w943747798_b2691072.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="CXTV", Runtime Ação Live
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21bae9dbda5e553dc0f618bd5bf36b3c.webp" group-title="CXTV", Lamore Rock Show WebTV Live
+https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w941970618.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42cb09180fe07eee094bcdf4b3f76feb.webp" group-title="CXTV", Drive Channel Tv Live
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/chunklist_w1515473175.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/65281c2feb6e6adb6176012176b511de.webp" group-title="CXTV", Muzangala TV Live
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1086071579.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
 LINK⚫

@@ -16,8 +16,8 @@
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="⭐ MEUS FAVORITOS 🌟", TV Aracati - ao vivo
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1192332418.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="⭐ MEUS FAVORITOS 🌟", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="⭐ MEUS FAVORITOS 🌟", TV Brasil Internacional ao vivo online
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779975019/ei/C-8XarO6EuGdobIP2Yvz6Ac/ip/2804:29b8:5222:2439:d1b3:da13:47b7:87c8/id/2gx4MvEYcFs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-cgpn5oxu-4vgl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwqVpNQ6aBaJXCms4_0hdYSHAnYGfYmu7_VRigKnLJJd8rFoCSMSs7lWbRBhPH57ZXGjUt_zweSu/spc/96Xrv3Aq5CSF4kRUry9Yse2o2WKTdT1fVioqo8akffuqUqmZVw/vprv/1/reg/0/playlist_type/DVR/met/1779953420,/mh/nH/mm/44/mn/sn-cgpn5oxu-4vgl/ms/lva/mv/u/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1779953053/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgcmwWHYk2AJ7c2gTIKUpNQ1OXZe7On2WP38KGYXKTEukCIQDdWcqT-iWTCmgAcz5qJp5iHGDGzHTS-F_Y2h3pUXCmFw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgECUAtukQzHARKND7QU8mePcR2BaSKflhhBcR2y1KPo0CIBF2gRGaKQSTflpbwb10ecXBkVeNusyOuRGWP5qs4TN0/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="⭐ MEUS FAVORITOS 🌟", NOME⚫
 LINK⚫
@@ -1443,15 +1443,192 @@ LINK⚫
 
           #######################################################################
           #######################################################################
-          #########################    CATEGORIA⚫   ############################
+          #########################    CX TV   ############################
           #######################################################################
           #######################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOME⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91efd89afa7e783034c78ab45eb10ccc.webp" group-title="CXTV", TVI Reality Live
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=745347847&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI2IDEyOjI4OjQ1IEFNJmhhc2hfdmFsdWU9UkNjdWFlL1lZeklDKzVHbHVTSWxYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM5ZWIyNWM5LTJlNjItNGM1MC1iOTVhLWZmNjM0NjI5Yzg3Yg==
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/467691868df05a4035d5b6e8d361e79f.webp" group-title="CXTV", TVI Live
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=2848455347&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI2IDEyOjI4OjQzIEFNJmhhc2hfdmFsdWU9eExDbXliRkZKRHpsVlU5d1lCMVlqUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJmMmY5MGUxLTI0NTctNDU5Zi04ODIzLTk5Mjk1YWZiZjVmNQ==
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf5a981c80f234b09dae228127d108a1.webp" group-title="CXTV", SIC Live
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/702517cc49df69d1f090c7d5227c53ba.webp" group-title="CXTV", RS News Sports 5 Live
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w194917154.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a464ae68b020893d77567b327533efa8.webp" group-title="CXTV", TVI Ficção Live
+https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=1331323685&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI2IDEyOjI4OjQ1IEFNJmhhc2hfdmFsdWU9QlZkdXBmMitRbUl4VHRScFBnbmhudz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZhYzNlZDkyLWZjODctNDA3NC1hYTJkLTAwZmU5Y2NlMDY0Nw==
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35afb908a11d6981e89adaf68857e9df.webp" group-title="CXTV", V+ TVI Live
+https://video-auth2.iol.pt/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=226832209&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI2IDEyOjI4OjQ0IEFNJmhhc2hfdmFsdWU9T2Fsb3NhU3NCSXMvN3BHajlGeXE2UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBlZmJjMmMxLWM2YTctNDlmZS1iZjI3LWEzNzE1NzcyMWQyZQ==
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f5f1b3ee68f9bd23c87dab4a49e755b2.webp" group-title="CXTV", FIFA Plus - Português Live
+https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/7ff7edbc-043b-4372-b1c8-2a7cef586457/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0049b33f9d70ac2fbea58163c3053423.webp" group-title="CXTV", Rede Brasil de Televisão - RBTV Live
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CXTV", Retro Cartoon Live
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w729696690.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b1b4e422cd08cb8c4deb0c80910b4f8c.webp" group-title="CXTV", TV Brasil Internacional Live
+https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-avc1_3000000=10003.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="CXTV", Record News Live
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f466d2251a132949342fb891dbe2e641.webp" group-title="CXTV", TVI Internacional Live
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2848462376&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI2IDEyOjI4OjQ2IEFNJmhhc2hfdmFsdWU9RzRLa0FVd3JYOGpTaCtjSjBOZUg1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE2ODMxNjU5LTQwZDgtNDRlMS05MWVhLWQ1NTQxODFhYzQzMA==
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="CXTV", Web Tv Cine Live
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b6904191bba4cd4428ac6f08a5716aec.webp" group-title="CXTV", CNN Portugal Live
+https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=2848462306&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI2IDEyOjI4OjQ0IEFNJmhhc2hfdmFsdWU9c0RaUTYyd2lJczY1dnJBTkJmZ21SQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc5ZGMyMDQxLWViOTctNDU0Zi1hMDBiLWNiMzg3ZmE4M2M4Zg==
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
 LINK⚫
 
 
 
 
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
+LINK⚫
 
 
 

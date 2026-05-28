@@ -1596,38 +1596,38 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" group-title="CXTV", Kuriakos Cine Live
 https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w956959019_b30048000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1da08d69331552d9dbcab51e2228c53d.webp" group-title="CXTV", Reviva Tv Live
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="CXTV", Otaku Sign Tv Live
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="CXTV", AWTV Live
+https://awtv.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6068c92b87f98a978c73b87d900fdcb3.webp" group-title="CXTV", TVM Moçambique Live
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="CXTV", Rede Clouding TV Live
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w538611969.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="CXTV", RTN TV Live
+https://tv01.zas.media:1936/rtntv/rtntv/chunklist_w495848237.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="CXTV", CinePIX TV Live
+https://stream.ads.ottera.tv/cl/260528d8bvkj3ps8ms73duf360/1920x1080_6046040_3_f.m3u8?i=728_6178
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp" group-title="CXTV", Web Tv Xtreme Live
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/041a53eb1b2c6c9d65151c102342544b.webp" group-title="CXTV", TV Brasil Live
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25f5d36062e12c2993292614f7bc26da.webp" group-title="CXTV", RCTV Brasil Live
+https://tv03.zas.media:1936/mbc/mbc/chunklist_w1629831626.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="CXTV", Runtime Live
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
 LINK⚫

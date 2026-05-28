@@ -1488,50 +1488,50 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b6904191bba4cd4428ac6f08a5716aec.webp" group-title="CXTV", CNN Portugal Live
 https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=2848462306&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI2IDEyOjI4OjQ0IEFNJmhhc2hfdmFsdWU9c0RaUTYyd2lJczY1dnJBTkJmZ21SQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc5ZGMyMDQxLWViOTctNDU0Zi1hMDBiLWNiMzg3ZmE4M2M4Zg==
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c12ee932ef481d882e426fb323250a8.webp" group-title="CXTV", Hardcore Pawn - Em Português Live
+https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/15dfa81381e3e94f5a823ee970d0500e.webp" group-title="CXTV", Porto Canal Live
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/chunklist_b1996000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="CXTV", N Sports Live
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="CXTV", Euronews PT Live
+https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/dd4a9769-e0e8-4b3d-903e-6a71ccd8dcc0/5.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="CXTV", Anime Tv Live
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47c3f8ec470d526c80efe89c8c095f8a.webp" group-title="CXTV", Unique Sports 1 Live
+https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85622a63246e88cadd968505db88bcf7.webp" group-title="CXTV", Tv Zimbo Live
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/38cca32010062541d346871765a20c4a.webp" group-title="CXTV", Multi Canais Live
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1070137729.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ed777683fdb619972ae85298a4925b40.webp" group-title="CXTV", CazéTV Live
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="CXTV", Tv Clássicos Live
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w85898086.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="CXTV", TV Cultura Live
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="CXTV", Gospel Cartoon Live
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp" group-title="CXTV", Animax Live
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3536ac27ecdb70d527dc190433607e94.webp" group-title="CXTV", RS SPORTS Live
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w1036411022.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="CXTV", Tv Loading Live
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CXTV", NOME⚫
 LINK⚫
